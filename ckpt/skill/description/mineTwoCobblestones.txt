@@ -1,0 +1,3 @@
+async function mineTwoCobblestones(bot) {
+    // The function mines 2 cobblestones by checking the inventory for a sufficient amount. If enough cobblestones are already collected, the task is considered complete. Otherwise, it searches for stone blocks within a certain range to mine and acquire the required cobblestones. If no stone blocks are initially found, the bot explores the environment until a suitable block is located. After mining, a final check ensures that the necessary cobblestones have been obtained, and the appropriate message is displayed based on the outcome.
+}

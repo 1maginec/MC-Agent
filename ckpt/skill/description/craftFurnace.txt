@@ -1,0 +1,3 @@
+async function craftFurnace(bot) {
+    // The function crafts a furnace after ensuring the availability of a crafting table. It first checks for a crafting table; if not found, it crafts one using oak logs. If there are no oak logs, it explores to find and mine one before crafting a crafting table. Once the crafting table is available, the bot crafts a furnace successfully.
+}

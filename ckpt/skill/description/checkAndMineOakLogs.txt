@@ -1,0 +1,3 @@
+async function checkAndMineOakLogs(bot) {
+    // The function checks and mines oak logs until a specified amount is collected, then reports the status. It first counts the oak logs in the inventory and compares it to the required amount. If enough logs are collected, the task is marked as completed; otherwise, it searches for nearby oak logs and mines them to meet the required quantity. It provides updates on the oak logs collection progress, such as how many logs are currently in possession and the total logs mined to fulfill the task.
+}

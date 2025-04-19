@@ -1,0 +1,4 @@
+2025-04-19 13:13:46,384 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 13:13:47,387 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 13:13:47,904 - mineflayer - INFO - Server started on port 3000
+2025-04-19 13:13:47,905 - mineflayer - INFO - Subprocess is ready.

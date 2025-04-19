@@ -1,0 +1,1429 @@
+2025-04-19 14:29:02,971 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 14:29:03,973 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:04,084 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:04,084 - mineflayer - INFO - }
+2025-04-19 14:29:04,085 - mineflayer - INFO - ^
+2025-04-19 14:29:04,085 - mineflayer - INFO - 
+2025-04-19 14:29:04,085 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:04,085 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:04,086 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:04,086 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:04,086 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:04,086 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:04,086 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:04,086 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:04,086 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:04,086 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:04,086 - mineflayer - INFO - 
+2025-04-19 14:29:04,086 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:04,092 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:04,186 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:04,186 - mineflayer - INFO - }
+2025-04-19 14:29:04,186 - mineflayer - INFO - ^
+2025-04-19 14:29:04,186 - mineflayer - INFO - 
+2025-04-19 14:29:04,186 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:04,186 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:04,186 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:04,186 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:04,186 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:04,186 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:04,186 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:04,186 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:04,186 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:04,186 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:04,186 - mineflayer - INFO - 
+2025-04-19 14:29:04,186 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:04,193 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:04,288 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:04,288 - mineflayer - INFO - }
+2025-04-19 14:29:04,288 - mineflayer - INFO - ^
+2025-04-19 14:29:04,288 - mineflayer - INFO - 
+2025-04-19 14:29:04,288 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:04,288 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:04,288 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:04,288 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:04,289 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:04,289 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:04,289 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:04,289 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:04,289 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:04,289 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:04,289 - mineflayer - INFO - 
+2025-04-19 14:29:04,289 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:04,295 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:04,388 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:04,389 - mineflayer - INFO - }
+2025-04-19 14:29:04,389 - mineflayer - INFO - ^
+2025-04-19 14:29:04,389 - mineflayer - INFO - 
+2025-04-19 14:29:04,389 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:04,389 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:04,389 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:04,389 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:04,389 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:04,389 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:04,389 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:04,389 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:04,389 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:04,389 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:04,389 - mineflayer - INFO - 
+2025-04-19 14:29:04,389 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:04,395 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:04,490 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:04,491 - mineflayer - INFO - }
+2025-04-19 14:29:04,491 - mineflayer - INFO - ^
+2025-04-19 14:29:04,491 - mineflayer - INFO - 
+2025-04-19 14:29:04,491 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:04,491 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:04,491 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:04,491 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:04,491 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:04,491 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:04,491 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:04,491 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:04,491 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:04,491 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:04,491 - mineflayer - INFO - 
+2025-04-19 14:29:04,491 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:04,497 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:04,593 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:04,593 - mineflayer - INFO - }
+2025-04-19 14:29:04,593 - mineflayer - INFO - ^
+2025-04-19 14:29:04,593 - mineflayer - INFO - 
+2025-04-19 14:29:04,593 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:04,593 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:04,593 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:04,593 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:04,593 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:04,593 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:04,593 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:04,593 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:04,593 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:04,593 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:04,593 - mineflayer - INFO - 
+2025-04-19 14:29:04,593 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:04,601 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:04,694 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:04,694 - mineflayer - INFO - }
+2025-04-19 14:29:04,694 - mineflayer - INFO - ^
+2025-04-19 14:29:04,694 - mineflayer - INFO - 
+2025-04-19 14:29:04,694 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:04,694 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:04,694 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:04,694 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:04,694 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:04,694 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:04,694 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:04,694 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:04,694 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:04,694 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:04,694 - mineflayer - INFO - 
+2025-04-19 14:29:04,694 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:04,701 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:04,795 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:04,795 - mineflayer - INFO - }
+2025-04-19 14:29:04,795 - mineflayer - INFO - ^
+2025-04-19 14:29:04,795 - mineflayer - INFO - 
+2025-04-19 14:29:04,795 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:04,795 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:04,795 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:04,795 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:04,795 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:04,795 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:04,795 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:04,795 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:04,795 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:04,795 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:04,795 - mineflayer - INFO - 
+2025-04-19 14:29:04,795 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:04,802 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:04,901 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:04,901 - mineflayer - INFO - }
+2025-04-19 14:29:04,901 - mineflayer - INFO - ^
+2025-04-19 14:29:04,901 - mineflayer - INFO - 
+2025-04-19 14:29:04,901 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:04,901 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:04,901 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:04,901 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:04,901 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:04,901 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:04,901 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:04,901 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:04,901 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:04,901 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:04,901 - mineflayer - INFO - 
+2025-04-19 14:29:04,901 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:04,907 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:05,009 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:05,009 - mineflayer - INFO - }
+2025-04-19 14:29:05,009 - mineflayer - INFO - ^
+2025-04-19 14:29:05,009 - mineflayer - INFO - 
+2025-04-19 14:29:05,009 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:05,009 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:05,009 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:05,009 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:05,009 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:05,009 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:05,009 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:05,009 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:05,009 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:05,009 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:05,009 - mineflayer - INFO - 
+2025-04-19 14:29:05,009 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:05,016 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:05,110 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:05,111 - mineflayer - INFO - }
+2025-04-19 14:29:05,111 - mineflayer - INFO - ^
+2025-04-19 14:29:05,111 - mineflayer - INFO - 
+2025-04-19 14:29:05,111 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:05,111 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:05,111 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:05,111 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:05,111 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:05,111 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:05,111 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:05,111 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:05,111 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:05,111 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:05,111 - mineflayer - INFO - 
+2025-04-19 14:29:05,111 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:05,118 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:05,211 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:05,211 - mineflayer - INFO - }
+2025-04-19 14:29:05,211 - mineflayer - INFO - ^
+2025-04-19 14:29:05,211 - mineflayer - INFO - 
+2025-04-19 14:29:05,211 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:05,211 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:05,211 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:05,211 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:05,211 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:05,211 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:05,211 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:05,211 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:05,211 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:05,211 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:05,211 - mineflayer - INFO - 
+2025-04-19 14:29:05,211 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:05,217 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:05,312 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:05,312 - mineflayer - INFO - }
+2025-04-19 14:29:05,312 - mineflayer - INFO - ^
+2025-04-19 14:29:05,312 - mineflayer - INFO - 
+2025-04-19 14:29:05,312 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:05,312 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:05,312 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:05,312 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:05,312 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:05,312 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:05,312 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:05,312 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:05,312 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:05,312 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:05,312 - mineflayer - INFO - 
+2025-04-19 14:29:05,312 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:05,319 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:05,413 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:05,413 - mineflayer - INFO - }
+2025-04-19 14:29:05,413 - mineflayer - INFO - ^
+2025-04-19 14:29:05,413 - mineflayer - INFO - 
+2025-04-19 14:29:05,413 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:05,413 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:05,413 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:05,413 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:05,413 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:05,413 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:05,413 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:05,413 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:05,414 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:05,414 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:05,414 - mineflayer - INFO - 
+2025-04-19 14:29:05,414 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:05,420 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:05,515 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:05,515 - mineflayer - INFO - }
+2025-04-19 14:29:05,515 - mineflayer - INFO - ^
+2025-04-19 14:29:05,515 - mineflayer - INFO - 
+2025-04-19 14:29:05,515 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:05,515 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:05,515 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:05,515 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:05,515 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:05,515 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:05,515 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:05,515 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:05,515 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:05,515 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:05,515 - mineflayer - INFO - 
+2025-04-19 14:29:05,515 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:05,522 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:05,617 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:05,618 - mineflayer - INFO - }
+2025-04-19 14:29:05,618 - mineflayer - INFO - ^
+2025-04-19 14:29:05,618 - mineflayer - INFO - 
+2025-04-19 14:29:05,618 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:05,618 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:05,618 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:05,618 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:05,618 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:05,618 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:05,618 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:05,618 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:05,618 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:05,618 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:05,618 - mineflayer - INFO - 
+2025-04-19 14:29:05,618 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:05,625 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:05,720 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:05,720 - mineflayer - INFO - }
+2025-04-19 14:29:05,720 - mineflayer - INFO - ^
+2025-04-19 14:29:05,720 - mineflayer - INFO - 
+2025-04-19 14:29:05,720 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:05,720 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:05,720 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:05,720 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:05,720 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:05,720 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:05,720 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:05,720 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:05,720 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:05,720 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:05,720 - mineflayer - INFO - 
+2025-04-19 14:29:05,720 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:05,727 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:05,822 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:05,823 - mineflayer - INFO - }
+2025-04-19 14:29:05,823 - mineflayer - INFO - ^
+2025-04-19 14:29:05,823 - mineflayer - INFO - 
+2025-04-19 14:29:05,823 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:05,823 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:05,823 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:05,823 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:05,823 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:05,823 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:05,823 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:05,823 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:05,823 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:05,823 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:05,823 - mineflayer - INFO - 
+2025-04-19 14:29:05,823 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:05,829 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:05,924 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:05,924 - mineflayer - INFO - }
+2025-04-19 14:29:05,925 - mineflayer - INFO - ^
+2025-04-19 14:29:05,925 - mineflayer - INFO - 
+2025-04-19 14:29:05,925 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:05,925 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:05,925 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:05,925 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:05,925 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:05,925 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:05,925 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:05,925 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:05,925 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:05,925 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:05,925 - mineflayer - INFO - 
+2025-04-19 14:29:05,925 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:05,931 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:06,029 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:06,029 - mineflayer - INFO - }
+2025-04-19 14:29:06,029 - mineflayer - INFO - ^
+2025-04-19 14:29:06,029 - mineflayer - INFO - 
+2025-04-19 14:29:06,029 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:06,029 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:06,029 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:06,029 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:06,029 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:06,029 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:06,029 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:06,029 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:06,029 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:06,029 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:06,029 - mineflayer - INFO - 
+2025-04-19 14:29:06,029 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:06,036 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:06,133 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:06,133 - mineflayer - INFO - }
+2025-04-19 14:29:06,133 - mineflayer - INFO - ^
+2025-04-19 14:29:06,133 - mineflayer - INFO - 
+2025-04-19 14:29:06,133 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:06,134 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:06,134 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:06,134 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:06,134 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:06,134 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:06,134 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:06,134 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:06,134 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:06,134 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:06,134 - mineflayer - INFO - 
+2025-04-19 14:29:06,134 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:06,140 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:06,237 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:06,237 - mineflayer - INFO - }
+2025-04-19 14:29:06,237 - mineflayer - INFO - ^
+2025-04-19 14:29:06,237 - mineflayer - INFO - 
+2025-04-19 14:29:06,237 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:06,237 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:06,237 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:06,237 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:06,237 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:06,237 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:06,237 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:06,237 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:06,237 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:06,237 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:06,237 - mineflayer - INFO - 
+2025-04-19 14:29:06,237 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:06,244 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:06,342 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:06,342 - mineflayer - INFO - }
+2025-04-19 14:29:06,342 - mineflayer - INFO - ^
+2025-04-19 14:29:06,342 - mineflayer - INFO - 
+2025-04-19 14:29:06,342 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:06,342 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:06,342 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:06,342 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:06,342 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:06,342 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:06,342 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:06,342 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:06,342 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:06,342 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:06,342 - mineflayer - INFO - 
+2025-04-19 14:29:06,342 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:06,349 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:06,441 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:06,442 - mineflayer - INFO - }
+2025-04-19 14:29:06,442 - mineflayer - INFO - ^
+2025-04-19 14:29:06,442 - mineflayer - INFO - 
+2025-04-19 14:29:06,442 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:06,442 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:06,442 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:06,442 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:06,442 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:06,442 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:06,442 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:06,442 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:06,442 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:06,442 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:06,442 - mineflayer - INFO - 
+2025-04-19 14:29:06,442 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:06,449 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:06,545 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:06,545 - mineflayer - INFO - }
+2025-04-19 14:29:06,545 - mineflayer - INFO - ^
+2025-04-19 14:29:06,545 - mineflayer - INFO - 
+2025-04-19 14:29:06,545 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:06,545 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:06,545 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:06,545 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:06,545 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:06,545 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:06,545 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:06,545 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:06,545 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:06,545 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:06,545 - mineflayer - INFO - 
+2025-04-19 14:29:06,545 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:06,552 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:06,647 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:06,647 - mineflayer - INFO - }
+2025-04-19 14:29:06,647 - mineflayer - INFO - ^
+2025-04-19 14:29:06,647 - mineflayer - INFO - 
+2025-04-19 14:29:06,647 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:06,647 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:06,647 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:06,647 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:06,647 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:06,647 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:06,647 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:06,647 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:06,647 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:06,647 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:06,647 - mineflayer - INFO - 
+2025-04-19 14:29:06,647 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:06,654 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:06,747 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:06,748 - mineflayer - INFO - }
+2025-04-19 14:29:06,748 - mineflayer - INFO - ^
+2025-04-19 14:29:06,748 - mineflayer - INFO - 
+2025-04-19 14:29:06,748 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:06,748 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:06,748 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:06,748 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:06,748 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:06,748 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:06,748 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:06,748 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:06,748 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:06,748 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:06,748 - mineflayer - INFO - 
+2025-04-19 14:29:06,748 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:06,755 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:06,850 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:06,850 - mineflayer - INFO - }
+2025-04-19 14:29:06,850 - mineflayer - INFO - ^
+2025-04-19 14:29:06,850 - mineflayer - INFO - 
+2025-04-19 14:29:06,850 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:06,850 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:06,850 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:06,850 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:06,850 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:06,850 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:06,850 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:06,851 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:06,851 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:06,851 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:06,851 - mineflayer - INFO - 
+2025-04-19 14:29:06,851 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:06,857 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:06,956 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:06,956 - mineflayer - INFO - }
+2025-04-19 14:29:06,956 - mineflayer - INFO - ^
+2025-04-19 14:29:06,956 - mineflayer - INFO - 
+2025-04-19 14:29:06,956 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:06,956 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:06,956 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:06,956 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:06,956 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:06,956 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:06,956 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:06,956 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:06,956 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:06,956 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:06,956 - mineflayer - INFO - 
+2025-04-19 14:29:06,956 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:06,961 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:07,059 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:07,059 - mineflayer - INFO - }
+2025-04-19 14:29:07,059 - mineflayer - INFO - ^
+2025-04-19 14:29:07,059 - mineflayer - INFO - 
+2025-04-19 14:29:07,059 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:07,059 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:07,059 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:07,059 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:07,059 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:07,059 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:07,059 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:07,059 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:07,059 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:07,059 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:07,059 - mineflayer - INFO - 
+2025-04-19 14:29:07,059 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:07,066 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:07,160 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:07,160 - mineflayer - INFO - }
+2025-04-19 14:29:07,160 - mineflayer - INFO - ^
+2025-04-19 14:29:07,160 - mineflayer - INFO - 
+2025-04-19 14:29:07,160 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:07,160 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:07,160 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:07,160 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:07,160 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:07,161 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:07,161 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:07,161 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:07,161 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:07,161 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:07,161 - mineflayer - INFO - 
+2025-04-19 14:29:07,161 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:07,167 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:07,262 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:07,262 - mineflayer - INFO - }
+2025-04-19 14:29:07,262 - mineflayer - INFO - ^
+2025-04-19 14:29:07,262 - mineflayer - INFO - 
+2025-04-19 14:29:07,262 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:07,262 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:07,262 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:07,262 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:07,262 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:07,262 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:07,262 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:07,262 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:07,262 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:07,262 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:07,262 - mineflayer - INFO - 
+2025-04-19 14:29:07,262 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:07,269 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:07,362 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:07,362 - mineflayer - INFO - }
+2025-04-19 14:29:07,362 - mineflayer - INFO - ^
+2025-04-19 14:29:07,362 - mineflayer - INFO - 
+2025-04-19 14:29:07,362 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:07,362 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:07,362 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:07,362 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:07,362 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:07,362 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:07,362 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:07,362 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:07,362 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:07,362 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:07,362 - mineflayer - INFO - 
+2025-04-19 14:29:07,362 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:07,370 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:07,463 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:07,464 - mineflayer - INFO - }
+2025-04-19 14:29:07,464 - mineflayer - INFO - ^
+2025-04-19 14:29:07,464 - mineflayer - INFO - 
+2025-04-19 14:29:07,464 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:07,464 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:07,464 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:07,464 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:07,464 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:07,464 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:07,464 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:07,464 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:07,464 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:07,464 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:07,464 - mineflayer - INFO - 
+2025-04-19 14:29:07,464 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:07,471 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:07,565 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:07,565 - mineflayer - INFO - }
+2025-04-19 14:29:07,565 - mineflayer - INFO - ^
+2025-04-19 14:29:07,565 - mineflayer - INFO - 
+2025-04-19 14:29:07,565 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:07,565 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:07,565 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:07,565 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:07,565 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:07,565 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:07,565 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:07,565 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:07,565 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:07,565 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:07,565 - mineflayer - INFO - 
+2025-04-19 14:29:07,565 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:07,571 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:07,667 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:07,667 - mineflayer - INFO - }
+2025-04-19 14:29:07,667 - mineflayer - INFO - ^
+2025-04-19 14:29:07,667 - mineflayer - INFO - 
+2025-04-19 14:29:07,667 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:07,667 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:07,667 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:07,667 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:07,667 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:07,667 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:07,667 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:07,667 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:07,667 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:07,667 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:07,667 - mineflayer - INFO - 
+2025-04-19 14:29:07,667 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:07,674 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:07,769 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:07,769 - mineflayer - INFO - }
+2025-04-19 14:29:07,769 - mineflayer - INFO - ^
+2025-04-19 14:29:07,769 - mineflayer - INFO - 
+2025-04-19 14:29:07,769 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:07,769 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:07,769 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:07,769 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:07,769 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:07,769 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:07,769 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:07,769 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:07,769 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:07,769 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:07,769 - mineflayer - INFO - 
+2025-04-19 14:29:07,769 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:07,776 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:07,871 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:07,871 - mineflayer - INFO - }
+2025-04-19 14:29:07,871 - mineflayer - INFO - ^
+2025-04-19 14:29:07,871 - mineflayer - INFO - 
+2025-04-19 14:29:07,871 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:07,871 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:07,871 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:07,871 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:07,871 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:07,871 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:07,871 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:07,871 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:07,871 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:07,871 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:07,871 - mineflayer - INFO - 
+2025-04-19 14:29:07,871 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:07,880 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:07,981 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:07,981 - mineflayer - INFO - }
+2025-04-19 14:29:07,981 - mineflayer - INFO - ^
+2025-04-19 14:29:07,981 - mineflayer - INFO - 
+2025-04-19 14:29:07,981 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:07,981 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:07,981 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:07,981 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:07,981 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:07,981 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:07,981 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:07,981 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:07,981 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:07,981 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:07,981 - mineflayer - INFO - 
+2025-04-19 14:29:07,981 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:07,988 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:08,085 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:08,086 - mineflayer - INFO - }
+2025-04-19 14:29:08,086 - mineflayer - INFO - ^
+2025-04-19 14:29:08,086 - mineflayer - INFO - 
+2025-04-19 14:29:08,086 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:08,086 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:08,086 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:08,086 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:08,086 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:08,086 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:08,086 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:08,086 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:08,086 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:08,086 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:08,086 - mineflayer - INFO - 
+2025-04-19 14:29:08,086 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:08,092 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:08,188 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:08,189 - mineflayer - INFO - }
+2025-04-19 14:29:08,189 - mineflayer - INFO - ^
+2025-04-19 14:29:08,189 - mineflayer - INFO - 
+2025-04-19 14:29:08,189 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:08,189 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:08,189 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:08,189 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:08,189 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:08,189 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:08,189 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:08,189 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:08,189 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:08,189 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:08,189 - mineflayer - INFO - 
+2025-04-19 14:29:08,189 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:08,195 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:08,288 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:08,288 - mineflayer - INFO - }
+2025-04-19 14:29:08,288 - mineflayer - INFO - ^
+2025-04-19 14:29:08,288 - mineflayer - INFO - 
+2025-04-19 14:29:08,288 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:08,288 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:08,288 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:08,288 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:08,288 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:08,288 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:08,288 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:08,288 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:08,288 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:08,288 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:08,288 - mineflayer - INFO - 
+2025-04-19 14:29:08,288 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:08,294 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:08,388 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:08,388 - mineflayer - INFO - }
+2025-04-19 14:29:08,388 - mineflayer - INFO - ^
+2025-04-19 14:29:08,388 - mineflayer - INFO - 
+2025-04-19 14:29:08,388 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:08,388 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:08,388 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:08,388 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:08,388 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:08,388 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:08,388 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:08,388 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:08,388 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:08,388 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:08,388 - mineflayer - INFO - 
+2025-04-19 14:29:08,388 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:08,395 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:08,488 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:08,488 - mineflayer - INFO - }
+2025-04-19 14:29:08,488 - mineflayer - INFO - ^
+2025-04-19 14:29:08,488 - mineflayer - INFO - 
+2025-04-19 14:29:08,489 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:08,489 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:08,489 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:08,489 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:08,489 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:08,489 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:08,489 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:08,489 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:08,489 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:08,489 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:08,489 - mineflayer - INFO - 
+2025-04-19 14:29:08,489 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:08,495 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:08,589 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:08,589 - mineflayer - INFO - }
+2025-04-19 14:29:08,589 - mineflayer - INFO - ^
+2025-04-19 14:29:08,589 - mineflayer - INFO - 
+2025-04-19 14:29:08,589 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:08,589 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:08,589 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:08,589 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:08,589 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:08,589 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:08,589 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:08,590 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:08,590 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:08,590 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:08,590 - mineflayer - INFO - 
+2025-04-19 14:29:08,590 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:08,596 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:08,691 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:08,691 - mineflayer - INFO - }
+2025-04-19 14:29:08,691 - mineflayer - INFO - ^
+2025-04-19 14:29:08,691 - mineflayer - INFO - 
+2025-04-19 14:29:08,691 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:08,691 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:08,691 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:08,691 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:08,691 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:08,691 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:08,691 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:08,691 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:08,691 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:08,691 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:08,691 - mineflayer - INFO - 
+2025-04-19 14:29:08,691 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:08,697 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:08,791 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:08,791 - mineflayer - INFO - }
+2025-04-19 14:29:08,791 - mineflayer - INFO - ^
+2025-04-19 14:29:08,791 - mineflayer - INFO - 
+2025-04-19 14:29:08,791 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:08,791 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:08,791 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:08,791 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:08,791 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:08,791 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:08,791 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:08,791 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:08,791 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:08,791 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:08,791 - mineflayer - INFO - 
+2025-04-19 14:29:08,791 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:08,798 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:08,897 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:08,897 - mineflayer - INFO - }
+2025-04-19 14:29:08,898 - mineflayer - INFO - ^
+2025-04-19 14:29:08,898 - mineflayer - INFO - 
+2025-04-19 14:29:08,898 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:08,898 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:08,898 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:08,898 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:08,898 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:08,898 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:08,898 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:08,898 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:08,898 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:08,898 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:08,898 - mineflayer - INFO - 
+2025-04-19 14:29:08,898 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:08,904 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:09,001 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:09,001 - mineflayer - INFO - }
+2025-04-19 14:29:09,001 - mineflayer - INFO - ^
+2025-04-19 14:29:09,001 - mineflayer - INFO - 
+2025-04-19 14:29:09,001 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:09,001 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:09,001 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:09,001 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:09,001 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:09,001 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:09,001 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:09,001 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:09,001 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:09,001 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:09,001 - mineflayer - INFO - 
+2025-04-19 14:29:09,001 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:09,008 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:09,104 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:09,105 - mineflayer - INFO - }
+2025-04-19 14:29:09,105 - mineflayer - INFO - ^
+2025-04-19 14:29:09,105 - mineflayer - INFO - 
+2025-04-19 14:29:09,105 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:09,105 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:09,105 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:09,105 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:09,105 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:09,105 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:09,105 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:09,105 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:09,105 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:09,105 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:09,105 - mineflayer - INFO - 
+2025-04-19 14:29:09,105 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:09,112 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:09,207 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:09,208 - mineflayer - INFO - }
+2025-04-19 14:29:09,208 - mineflayer - INFO - ^
+2025-04-19 14:29:09,208 - mineflayer - INFO - 
+2025-04-19 14:29:09,208 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:09,208 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:09,208 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:09,208 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:09,208 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:09,208 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:09,208 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:09,208 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:09,208 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:09,208 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:09,208 - mineflayer - INFO - 
+2025-04-19 14:29:09,208 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:09,214 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:09,309 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:09,309 - mineflayer - INFO - }
+2025-04-19 14:29:09,309 - mineflayer - INFO - ^
+2025-04-19 14:29:09,309 - mineflayer - INFO - 
+2025-04-19 14:29:09,309 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:09,309 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:09,309 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:09,309 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:09,309 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:09,309 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:09,309 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:09,309 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:09,309 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:09,309 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:09,309 - mineflayer - INFO - 
+2025-04-19 14:29:09,309 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:09,316 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:09,412 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:09,412 - mineflayer - INFO - }
+2025-04-19 14:29:09,412 - mineflayer - INFO - ^
+2025-04-19 14:29:09,412 - mineflayer - INFO - 
+2025-04-19 14:29:09,412 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:09,412 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:09,412 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:09,412 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:09,412 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:09,412 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:09,412 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:09,412 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:09,412 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:09,412 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:09,412 - mineflayer - INFO - 
+2025-04-19 14:29:09,412 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:09,419 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:09,512 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:09,512 - mineflayer - INFO - }
+2025-04-19 14:29:09,512 - mineflayer - INFO - ^
+2025-04-19 14:29:09,512 - mineflayer - INFO - 
+2025-04-19 14:29:09,512 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:09,512 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:09,512 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:09,512 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:09,512 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:09,512 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:09,512 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:09,512 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:09,512 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:09,512 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:09,512 - mineflayer - INFO - 
+2025-04-19 14:29:09,512 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:09,519 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:09,613 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:09,613 - mineflayer - INFO - }
+2025-04-19 14:29:09,613 - mineflayer - INFO - ^
+2025-04-19 14:29:09,613 - mineflayer - INFO - 
+2025-04-19 14:29:09,613 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:09,613 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:09,613 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:09,613 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:09,613 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:09,613 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:09,613 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:09,613 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:09,613 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:09,613 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:09,613 - mineflayer - INFO - 
+2025-04-19 14:29:09,613 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:09,620 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:09,713 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:09,713 - mineflayer - INFO - }
+2025-04-19 14:29:09,713 - mineflayer - INFO - ^
+2025-04-19 14:29:09,714 - mineflayer - INFO - 
+2025-04-19 14:29:09,714 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:09,714 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:09,714 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:09,714 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:09,714 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:09,714 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:09,714 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:09,714 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:09,714 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:09,714 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:09,714 - mineflayer - INFO - 
+2025-04-19 14:29:09,714 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:09,720 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:09,815 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:09,815 - mineflayer - INFO - }
+2025-04-19 14:29:09,815 - mineflayer - INFO - ^
+2025-04-19 14:29:09,815 - mineflayer - INFO - 
+2025-04-19 14:29:09,815 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:09,815 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:09,815 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:09,816 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:09,816 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:09,816 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:09,816 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:09,816 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:09,816 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:09,816 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:09,816 - mineflayer - INFO - 
+2025-04-19 14:29:09,816 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:09,822 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:09,918 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:09,918 - mineflayer - INFO - }
+2025-04-19 14:29:09,918 - mineflayer - INFO - ^
+2025-04-19 14:29:09,918 - mineflayer - INFO - 
+2025-04-19 14:29:09,918 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:09,918 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:09,918 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:09,918 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:09,918 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:09,918 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:09,918 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:09,918 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:09,918 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:09,918 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:09,918 - mineflayer - INFO - 
+2025-04-19 14:29:09,918 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:09,926 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:10,029 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:10,029 - mineflayer - INFO - }
+2025-04-19 14:29:10,029 - mineflayer - INFO - ^
+2025-04-19 14:29:10,029 - mineflayer - INFO - 
+2025-04-19 14:29:10,029 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:10,029 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:10,029 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:10,029 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:10,029 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:10,029 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:10,029 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:10,029 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:10,029 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:10,029 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:10,029 - mineflayer - INFO - 
+2025-04-19 14:29:10,029 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:10,036 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:10,135 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:10,135 - mineflayer - INFO - }
+2025-04-19 14:29:10,135 - mineflayer - INFO - ^
+2025-04-19 14:29:10,135 - mineflayer - INFO - 
+2025-04-19 14:29:10,135 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:10,135 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:10,135 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:10,135 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:10,135 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:10,135 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:10,135 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:10,135 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:10,135 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:10,135 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:10,135 - mineflayer - INFO - 
+2025-04-19 14:29:10,135 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:10,141 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:10,243 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:10,243 - mineflayer - INFO - }
+2025-04-19 14:29:10,243 - mineflayer - INFO - ^
+2025-04-19 14:29:10,243 - mineflayer - INFO - 
+2025-04-19 14:29:10,243 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:10,243 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:10,243 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:10,243 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:10,243 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:10,243 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:10,243 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:10,243 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:10,243 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:10,243 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:10,243 - mineflayer - INFO - 
+2025-04-19 14:29:10,243 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:10,250 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:10,352 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:10,353 - mineflayer - INFO - }
+2025-04-19 14:29:10,353 - mineflayer - INFO - ^
+2025-04-19 14:29:10,353 - mineflayer - INFO - 
+2025-04-19 14:29:10,353 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:10,353 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:10,353 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:10,353 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:10,353 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:10,353 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:10,353 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:10,353 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:10,353 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:10,353 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:10,353 - mineflayer - INFO - 
+2025-04-19 14:29:10,353 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:10,360 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:10,459 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:10,459 - mineflayer - INFO - }
+2025-04-19 14:29:10,459 - mineflayer - INFO - ^
+2025-04-19 14:29:10,459 - mineflayer - INFO - 
+2025-04-19 14:29:10,459 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:10,459 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:10,459 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:10,459 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:10,459 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:10,459 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:10,459 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:10,459 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:10,459 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:10,460 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:10,460 - mineflayer - INFO - 
+2025-04-19 14:29:10,460 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:10,467 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:10,569 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:10,569 - mineflayer - INFO - }
+2025-04-19 14:29:10,569 - mineflayer - INFO - ^
+2025-04-19 14:29:10,569 - mineflayer - INFO - 
+2025-04-19 14:29:10,569 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:10,569 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:10,569 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:10,569 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:10,569 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:10,569 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:10,570 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:10,570 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:10,570 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:10,570 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:10,570 - mineflayer - INFO - 
+2025-04-19 14:29:10,570 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:10,576 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:10,675 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:10,676 - mineflayer - INFO - }
+2025-04-19 14:29:10,676 - mineflayer - INFO - ^
+2025-04-19 14:29:10,676 - mineflayer - INFO - 
+2025-04-19 14:29:10,676 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:10,676 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:10,676 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:10,676 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:10,676 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:10,676 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:10,676 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:10,676 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:10,676 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:10,676 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:10,676 - mineflayer - INFO - 
+2025-04-19 14:29:10,676 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:10,682 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:10,783 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:10,783 - mineflayer - INFO - }
+2025-04-19 14:29:10,783 - mineflayer - INFO - ^
+2025-04-19 14:29:10,783 - mineflayer - INFO - 
+2025-04-19 14:29:10,783 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:10,783 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:10,783 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:10,783 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:10,783 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:10,783 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:10,783 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:10,783 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:10,783 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:10,783 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:10,783 - mineflayer - INFO - 
+2025-04-19 14:29:10,783 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:10,789 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:10,888 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:10,888 - mineflayer - INFO - }
+2025-04-19 14:29:10,888 - mineflayer - INFO - ^
+2025-04-19 14:29:10,888 - mineflayer - INFO - 
+2025-04-19 14:29:10,888 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:10,888 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:10,888 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:10,888 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:10,888 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:10,888 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:10,888 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:10,888 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:10,888 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:10,888 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:10,888 - mineflayer - INFO - 
+2025-04-19 14:29:10,888 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:10,895 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:10,996 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:10,996 - mineflayer - INFO - }
+2025-04-19 14:29:10,996 - mineflayer - INFO - ^
+2025-04-19 14:29:10,996 - mineflayer - INFO - 
+2025-04-19 14:29:10,996 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:10,996 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:10,996 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:10,996 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:10,996 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:10,996 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:10,996 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:10,996 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:10,996 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:10,996 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:10,996 - mineflayer - INFO - 
+2025-04-19 14:29:10,996 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:11,006 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:11,107 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:11,107 - mineflayer - INFO - }
+2025-04-19 14:29:11,107 - mineflayer - INFO - ^
+2025-04-19 14:29:11,107 - mineflayer - INFO - 
+2025-04-19 14:29:11,107 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:11,107 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:11,107 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:11,107 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:11,107 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:11,107 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:11,107 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:11,107 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:11,107 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:11,107 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:11,107 - mineflayer - INFO - 
+2025-04-19 14:29:11,107 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:11,114 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:11,213 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:11,213 - mineflayer - INFO - }
+2025-04-19 14:29:11,213 - mineflayer - INFO - ^
+2025-04-19 14:29:11,213 - mineflayer - INFO - 
+2025-04-19 14:29:11,213 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:11,213 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:11,213 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:11,213 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:11,213 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:11,213 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:11,213 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:11,213 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:11,213 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:11,213 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:11,213 - mineflayer - INFO - 
+2025-04-19 14:29:11,213 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:11,220 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:11,313 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:11,313 - mineflayer - INFO - }
+2025-04-19 14:29:11,313 - mineflayer - INFO - ^
+2025-04-19 14:29:11,313 - mineflayer - INFO - 
+2025-04-19 14:29:11,313 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:11,313 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:11,313 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:11,313 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:11,313 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:11,313 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:11,313 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:11,313 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:11,313 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:11,313 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:11,313 - mineflayer - INFO - 
+2025-04-19 14:29:11,313 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:11,320 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:11,415 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:11,415 - mineflayer - INFO - }
+2025-04-19 14:29:11,415 - mineflayer - INFO - ^
+2025-04-19 14:29:11,415 - mineflayer - INFO - 
+2025-04-19 14:29:11,415 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:11,415 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:11,415 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:11,415 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:11,415 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:11,415 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:11,415 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:11,415 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:11,415 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:11,415 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:11,415 - mineflayer - INFO - 
+2025-04-19 14:29:11,416 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:11,422 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:11,522 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:11,522 - mineflayer - INFO - }
+2025-04-19 14:29:11,522 - mineflayer - INFO - ^
+2025-04-19 14:29:11,522 - mineflayer - INFO - 
+2025-04-19 14:29:11,522 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:11,522 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:11,522 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:11,522 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:11,522 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:11,522 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:11,522 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:11,522 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:11,522 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:11,522 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:11,522 - mineflayer - INFO - 
+2025-04-19 14:29:11,522 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:11,528 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:11,629 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:11,629 - mineflayer - INFO - }
+2025-04-19 14:29:11,629 - mineflayer - INFO - ^
+2025-04-19 14:29:11,629 - mineflayer - INFO - 
+2025-04-19 14:29:11,629 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:11,629 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:11,629 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:11,629 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:11,629 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:11,629 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:11,629 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:11,629 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:11,629 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:11,629 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:11,629 - mineflayer - INFO - 
+2025-04-19 14:29:11,629 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:11,636 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:11,732 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:11,732 - mineflayer - INFO - }
+2025-04-19 14:29:11,732 - mineflayer - INFO - ^
+2025-04-19 14:29:11,732 - mineflayer - INFO - 
+2025-04-19 14:29:11,732 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:11,732 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:11,732 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:11,732 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:11,732 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:11,732 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:11,732 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:11,732 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:11,732 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:11,732 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:11,732 - mineflayer - INFO - 
+2025-04-19 14:29:11,732 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:11,742 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:11,843 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:11,843 - mineflayer - INFO - }
+2025-04-19 14:29:11,843 - mineflayer - INFO - ^
+2025-04-19 14:29:11,843 - mineflayer - INFO - 
+2025-04-19 14:29:11,843 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:11,843 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:11,843 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:11,843 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:11,843 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:11,843 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:11,843 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:11,843 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:11,843 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:11,843 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:11,843 - mineflayer - INFO - 
+2025-04-19 14:29:11,843 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:11,850 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:11,950 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:11,950 - mineflayer - INFO - }
+2025-04-19 14:29:11,950 - mineflayer - INFO - ^
+2025-04-19 14:29:11,950 - mineflayer - INFO - 
+2025-04-19 14:29:11,950 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:11,950 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:11,950 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:11,950 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:11,950 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:11,950 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:11,950 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:11,950 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:11,950 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:11,950 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:11,950 - mineflayer - INFO - 
+2025-04-19 14:29:11,950 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:11,957 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:12,058 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:12,058 - mineflayer - INFO - }
+2025-04-19 14:29:12,058 - mineflayer - INFO - ^
+2025-04-19 14:29:12,058 - mineflayer - INFO - 
+2025-04-19 14:29:12,058 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:12,059 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:12,059 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:12,059 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:12,059 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:12,059 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:12,059 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:12,059 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:12,059 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:12,059 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:12,059 - mineflayer - INFO - 
+2025-04-19 14:29:12,059 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:12,065 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:12,163 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:12,164 - mineflayer - INFO - }
+2025-04-19 14:29:12,164 - mineflayer - INFO - ^
+2025-04-19 14:29:12,164 - mineflayer - INFO - 
+2025-04-19 14:29:12,164 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:12,164 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:12,164 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:12,164 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:12,164 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:12,164 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:12,164 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:12,164 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:12,164 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:12,164 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:12,164 - mineflayer - INFO - 
+2025-04-19 14:29:12,164 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:12,170 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:12,265 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:12,265 - mineflayer - INFO - }
+2025-04-19 14:29:12,265 - mineflayer - INFO - ^
+2025-04-19 14:29:12,265 - mineflayer - INFO - 
+2025-04-19 14:29:12,265 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:12,265 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:12,265 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:12,265 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:12,265 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:12,265 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:12,265 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:12,265 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:12,265 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:12,265 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:12,265 - mineflayer - INFO - 
+2025-04-19 14:29:12,265 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:12,272 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:12,366 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:12,367 - mineflayer - INFO - }
+2025-04-19 14:29:12,367 - mineflayer - INFO - ^
+2025-04-19 14:29:12,367 - mineflayer - INFO - 
+2025-04-19 14:29:12,367 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:12,367 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:12,367 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:12,367 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:12,367 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:12,367 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:12,367 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:12,367 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:12,367 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:12,367 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:12,367 - mineflayer - INFO - 
+2025-04-19 14:29:12,367 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:12,373 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:12,466 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:12,466 - mineflayer - INFO - }
+2025-04-19 14:29:12,466 - mineflayer - INFO - ^
+2025-04-19 14:29:12,467 - mineflayer - INFO - 
+2025-04-19 14:29:12,467 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:12,467 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:12,467 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:12,467 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:12,467 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:12,467 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:12,467 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:12,467 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:12,467 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:12,467 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:12,467 - mineflayer - INFO - 
+2025-04-19 14:29:12,467 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:12,473 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:12,568 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:12,568 - mineflayer - INFO - }
+2025-04-19 14:29:12,568 - mineflayer - INFO - ^
+2025-04-19 14:29:12,568 - mineflayer - INFO - 
+2025-04-19 14:29:12,568 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:12,568 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:12,568 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:12,568 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:12,568 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:12,568 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:12,568 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:12,568 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:12,568 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:12,568 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:12,568 - mineflayer - INFO - 
+2025-04-19 14:29:12,568 - mineflayer - INFO - Node.js v22.14.0
+2025-04-19 14:29:12,574 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:29:12,668 - mineflayer - INFO - D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:60
+2025-04-19 14:29:12,668 - mineflayer - INFO - }
+2025-04-19 14:29:12,668 - mineflayer - INFO - ^
+2025-04-19 14:29:12,668 - mineflayer - INFO - 
+2025-04-19 14:29:12,668 - mineflayer - INFO - SyntaxError: Unexpected token '}'
+2025-04-19 14:29:12,668 - mineflayer - INFO - [90m    at wrapSafe (node:internal/modules/cjs/loader:1486:18)[39m
+2025-04-19 14:29:12,668 - mineflayer - INFO - [90m    at Module._compile (node:internal/modules/cjs/loader:1528:20)[39m
+2025-04-19 14:29:12,668 - mineflayer - INFO - [90m    at Object..js (node:internal/modules/cjs/loader:1706:10)[39m
+2025-04-19 14:29:12,668 - mineflayer - INFO - [90m    at Module.load (node:internal/modules/cjs/loader:1289:32)[39m
+2025-04-19 14:29:12,668 - mineflayer - INFO - [90m    at Function._load (node:internal/modules/cjs/loader:1108:12)[39m
+2025-04-19 14:29:12,668 - mineflayer - INFO - [90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+2025-04-19 14:29:12,668 - mineflayer - INFO - [90m    at wrapModuleLoad (node:internal/modules/cjs/loader:220:24)[39m
+2025-04-19 14:29:12,668 - mineflayer - INFO - [90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)[39m
+2025-04-19 14:29:12,668 - mineflayer - INFO - [90m    at node:internal/main/run_main_module:36:49[39m
+2025-04-19 14:29:12,668 - mineflayer - INFO - 
+2025-04-19 14:29:12,668 - mineflayer - INFO - Node.js v22.14.0

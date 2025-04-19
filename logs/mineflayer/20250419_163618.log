@@ -1,0 +1,640 @@
+2025-04-19 16:36:25,894 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 16:36:26,899 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 16:36:27,352 - mineflayer - INFO - Server started on port 3000
+2025-04-19 16:36:27,352 - mineflayer - INFO - Subprocess is ready.
+2025-04-19 16:36:27,377 - mineflayer - INFO - {
+2025-04-19 16:36:27,377 - mineflayer - INFO - port: [33m54208[39m,
+2025-04-19 16:36:27,377 - mineflayer - INFO - reset: [32m'soft'[39m,
+2025-04-19 16:36:27,377 - mineflayer - INFO - inventory: {},
+2025-04-19 16:36:27,377 - mineflayer - INFO - equipment: [],
+2025-04-19 16:36:27,377 - mineflayer - INFO - spread: [33mfalse[39m,
+2025-04-19 16:36:27,378 - mineflayer - INFO - waitTicks: [33m20[39m,
+2025-04-19 16:36:27,378 - mineflayer - INFO - position: [1mnull[22m
+2025-04-19 16:36:27,378 - mineflayer - INFO - }
+2025-04-19 16:36:33,526 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:36:33,526 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:36:33,526 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:36:33,526 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:36:33,526 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:36:33,527 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:36:33,527 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:36:33,527 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:36:33,527 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:36:33,527 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:36:33,527 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:36:33,899 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:36:36,866 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:36:45,284 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 16:36:46,327 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 16:36:46,794 - mineflayer - INFO - Server started on port 3000
+2025-04-19 16:36:46,794 - mineflayer - INFO - Subprocess is ready.
+2025-04-19 16:36:46,820 - mineflayer - INFO - {
+2025-04-19 16:36:46,820 - mineflayer - INFO - port: [33m54208[39m,
+2025-04-19 16:36:46,820 - mineflayer - INFO - reset: [32m'soft'[39m,
+2025-04-19 16:36:46,820 - mineflayer - INFO - inventory: {},
+2025-04-19 16:36:46,820 - mineflayer - INFO - equipment: [],
+2025-04-19 16:36:46,820 - mineflayer - INFO - spread: [33mfalse[39m,
+2025-04-19 16:36:46,820 - mineflayer - INFO - waitTicks: [33m20[39m,
+2025-04-19 16:36:46,820 - mineflayer - INFO - position: [1mnull[22m
+2025-04-19 16:36:46,820 - mineflayer - INFO - }
+2025-04-19 16:36:47,858 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:36:47,858 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:36:47,858 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:36:47,859 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:36:47,859 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:36:47,859 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:36:47,859 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:36:47,859 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:36:47,859 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:36:47,859 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:36:47,859 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:36:48,243 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:36:51,058 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:37:03,312 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:37:08,824 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:37:12,682 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:37:24,719 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 16:37:25,764 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 16:37:26,217 - mineflayer - INFO - Server started on port 3000
+2025-04-19 16:37:26,217 - mineflayer - INFO - Subprocess is ready.
+2025-04-19 16:37:26,249 - mineflayer - INFO - {
+2025-04-19 16:37:26,249 - mineflayer - INFO - port: [33m54208[39m,
+2025-04-19 16:37:26,249 - mineflayer - INFO - reset: [32m'soft'[39m,
+2025-04-19 16:37:26,249 - mineflayer - INFO - inventory: {},
+2025-04-19 16:37:26,249 - mineflayer - INFO - equipment: [],
+2025-04-19 16:37:26,249 - mineflayer - INFO - spread: [33mfalse[39m,
+2025-04-19 16:37:26,249 - mineflayer - INFO - waitTicks: [33m20[39m,
+2025-04-19 16:37:26,249 - mineflayer - INFO - position: [1mnull[22m
+2025-04-19 16:37:26,249 - mineflayer - INFO - }
+2025-04-19 16:37:27,269 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:37:27,270 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:37:27,270 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:37:27,270 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:37:27,270 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:37:27,270 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:37:27,270 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:37:27,270 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:37:27,270 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:37:27,270 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:37:27,270 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:37:27,684 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:37:30,511 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:37:41,150 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:37:46,091 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:38:01,825 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:38:17,117 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 16:38:18,167 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 16:38:18,624 - mineflayer - INFO - Server started on port 3000
+2025-04-19 16:38:18,625 - mineflayer - INFO - Subprocess is ready.
+2025-04-19 16:38:18,655 - mineflayer - INFO - {
+2025-04-19 16:38:18,655 - mineflayer - INFO - port: [33m54208[39m,
+2025-04-19 16:38:18,655 - mineflayer - INFO - reset: [32m'soft'[39m,
+2025-04-19 16:38:18,655 - mineflayer - INFO - inventory: {},
+2025-04-19 16:38:18,655 - mineflayer - INFO - equipment: [],
+2025-04-19 16:38:18,655 - mineflayer - INFO - spread: [33mfalse[39m,
+2025-04-19 16:38:18,655 - mineflayer - INFO - waitTicks: [33m20[39m,
+2025-04-19 16:38:18,655 - mineflayer - INFO - position: [1mnull[22m
+2025-04-19 16:38:18,655 - mineflayer - INFO - }
+2025-04-19 16:38:19,675 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:38:19,675 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:38:19,675 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:38:19,675 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:38:19,675 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:38:19,675 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:38:19,675 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:38:19,675 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:38:19,675 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:38:19,675 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:38:19,675 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:38:20,091 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:38:22,903 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:38:23,735 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:38:23,735 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:38:23,735 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:38:23,735 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:38:23,735 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:38:23,735 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:38:23,735 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:38:23,735 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:38:23,735 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:38:23,735 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:38:23,735 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:38:33,001 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:38:43,638 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:38:45,383 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:38:48,246 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:39:16,933 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:39:27,984 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 16:39:29,026 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 16:39:29,480 - mineflayer - INFO - Server started on port 3000
+2025-04-19 16:39:29,480 - mineflayer - INFO - Subprocess is ready.
+2025-04-19 16:39:29,514 - mineflayer - INFO - {
+2025-04-19 16:39:29,514 - mineflayer - INFO - port: [33m54208[39m,
+2025-04-19 16:39:29,514 - mineflayer - INFO - reset: [32m'soft'[39m,
+2025-04-19 16:39:29,514 - mineflayer - INFO - inventory: {},
+2025-04-19 16:39:29,514 - mineflayer - INFO - equipment: [],
+2025-04-19 16:39:29,514 - mineflayer - INFO - spread: [33mfalse[39m,
+2025-04-19 16:39:29,514 - mineflayer - INFO - waitTicks: [33m20[39m,
+2025-04-19 16:39:29,514 - mineflayer - INFO - position: [1mnull[22m
+2025-04-19 16:39:29,514 - mineflayer - INFO - }
+2025-04-19 16:39:30,534 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:39:30,535 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:39:30,535 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:39:30,535 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:39:30,535 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:39:30,535 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:39:30,535 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:39:30,535 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:39:30,535 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:39:30,535 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:39:30,535 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:39:30,987 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:39:33,861 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:39:45,777 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:40:02,507 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 16:40:03,556 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 16:40:04,019 - mineflayer - INFO - Server started on port 3000
+2025-04-19 16:40:04,019 - mineflayer - INFO - Subprocess is ready.
+2025-04-19 16:40:04,045 - mineflayer - INFO - {
+2025-04-19 16:40:04,045 - mineflayer - INFO - port: [33m54208[39m,
+2025-04-19 16:40:04,045 - mineflayer - INFO - reset: [32m'soft'[39m,
+2025-04-19 16:40:04,045 - mineflayer - INFO - inventory: {},
+2025-04-19 16:40:04,045 - mineflayer - INFO - equipment: [],
+2025-04-19 16:40:04,045 - mineflayer - INFO - spread: [33mfalse[39m,
+2025-04-19 16:40:04,045 - mineflayer - INFO - waitTicks: [33m20[39m,
+2025-04-19 16:40:04,045 - mineflayer - INFO - position: [1mnull[22m
+2025-04-19 16:40:04,045 - mineflayer - INFO - }
+2025-04-19 16:40:05,036 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:40:05,036 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:40:05,036 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:40:05,036 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:40:05,036 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:40:05,036 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:40:05,036 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:40:05,036 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:40:05,036 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:40:05,036 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:40:05,036 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:40:05,458 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:40:08,328 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:40:19,113 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:40:32,656 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:40:45,775 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:41:00,255 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:41:03,472 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:41:03,472 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:41:03,472 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:41:03,472 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:41:03,472 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:41:03,472 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:41:03,472 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:41:03,472 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:41:03,472 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:41:03,472 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:41:03,472 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:41:14,252 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 16:41:15,301 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 16:41:15,762 - mineflayer - INFO - Server started on port 3000
+2025-04-19 16:41:15,762 - mineflayer - INFO - Subprocess is ready.
+2025-04-19 16:41:15,789 - mineflayer - INFO - {
+2025-04-19 16:41:15,789 - mineflayer - INFO - port: [33m54208[39m,
+2025-04-19 16:41:15,789 - mineflayer - INFO - reset: [32m'soft'[39m,
+2025-04-19 16:41:15,789 - mineflayer - INFO - inventory: {},
+2025-04-19 16:41:15,789 - mineflayer - INFO - equipment: [],
+2025-04-19 16:41:15,789 - mineflayer - INFO - spread: [33mfalse[39m,
+2025-04-19 16:41:15,789 - mineflayer - INFO - waitTicks: [33m20[39m,
+2025-04-19 16:41:15,789 - mineflayer - INFO - position: [1mnull[22m
+2025-04-19 16:41:15,789 - mineflayer - INFO - }
+2025-04-19 16:41:16,769 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:41:16,769 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:41:16,769 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:41:16,769 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:41:16,769 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:41:16,769 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:41:16,769 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:41:16,769 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:41:16,769 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:41:16,769 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:41:16,769 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:41:16,822 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:41:16,822 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:41:16,823 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:41:16,823 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:41:16,823 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:41:16,823 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:41:16,823 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:41:16,823 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:41:16,823 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:41:16,823 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:41:16,823 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:41:17,262 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:41:20,148 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:41:31,809 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:41:45,051 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:41:58,634 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 16:41:59,669 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 16:42:00,178 - mineflayer - INFO - Server started on port 3000
+2025-04-19 16:42:00,178 - mineflayer - INFO - Subprocess is ready.
+2025-04-19 16:42:00,202 - mineflayer - INFO - {
+2025-04-19 16:42:00,202 - mineflayer - INFO - port: [33m54208[39m,
+2025-04-19 16:42:00,203 - mineflayer - INFO - reset: [32m'soft'[39m,
+2025-04-19 16:42:00,203 - mineflayer - INFO - inventory: {},
+2025-04-19 16:42:00,203 - mineflayer - INFO - equipment: [],
+2025-04-19 16:42:00,203 - mineflayer - INFO - spread: [33mfalse[39m,
+2025-04-19 16:42:00,203 - mineflayer - INFO - waitTicks: [33m20[39m,
+2025-04-19 16:42:00,203 - mineflayer - INFO - position: [1mnull[22m
+2025-04-19 16:42:00,203 - mineflayer - INFO - }
+2025-04-19 16:42:01,251 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:42:01,251 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:42:01,251 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:42:01,251 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:42:01,251 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:42:01,251 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:42:01,251 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:42:01,251 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:42:01,251 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:42:01,251 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:42:01,251 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:42:01,691 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:42:02,285 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:42:02,285 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:42:02,285 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:42:02,285 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:42:02,285 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:42:02,285 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:42:02,285 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:42:02,285 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:42:02,285 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:42:02,285 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:42:02,285 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:42:04,566 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:42:06,557 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:42:06,557 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:42:06,557 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:42:06,557 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:42:06,557 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:42:06,557 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:42:06,557 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:42:06,557 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:42:06,557 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:42:06,557 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:42:06,557 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:42:14,493 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:42:33,476 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:42:36,176 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:42:38,379 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:42:53,050 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:42:55,483 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:42:57,379 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:43:13,800 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:43:14,751 - mineflayer - INFO - ReferenceError: gatherCobblestones is not defined
+2025-04-19 16:43:14,752 - mineflayer - INFO - at craftStoneAxe (eval at evaluateCode (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1067:3)
+2025-04-19 16:43:14,752 - mineflayer - INFO - at eval (eval at evaluateCode (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1088:7)
+2025-04-19 16:43:14,752 - mineflayer - INFO - at eval (eval at evaluateCode (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1088:28)
+2025-04-19 16:43:14,752 - mineflayer - INFO - at evaluateCode (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:256:19)
+2025-04-19 16:43:14,752 - mineflayer - INFO - at D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:239:21
+2025-04-19 16:43:14,752 - mineflayer - INFO - Your code:42
+2025-04-19 16:43:14,752 - mineflayer - INFO - await gatherCobblestones(bot, requiredCobblestones);
+2025-04-19 16:43:14,752 - mineflayer - INFO - gatherCobblestones is not defined
+2025-04-19 16:43:14,752 - mineflayer - INFO - 
+2025-04-19 16:45:41,585 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 16:45:42,628 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 16:45:43,089 - mineflayer - INFO - Server started on port 3000
+2025-04-19 16:45:43,089 - mineflayer - INFO - Subprocess is ready.
+2025-04-19 16:45:43,116 - mineflayer - INFO - {
+2025-04-19 16:45:43,116 - mineflayer - INFO - port: [33m54208[39m,
+2025-04-19 16:45:43,117 - mineflayer - INFO - reset: [32m'soft'[39m,
+2025-04-19 16:45:43,117 - mineflayer - INFO - inventory: {},
+2025-04-19 16:45:43,117 - mineflayer - INFO - equipment: [],
+2025-04-19 16:45:43,117 - mineflayer - INFO - spread: [33mfalse[39m,
+2025-04-19 16:45:43,117 - mineflayer - INFO - waitTicks: [33m20[39m,
+2025-04-19 16:45:43,117 - mineflayer - INFO - position: [1mnull[22m
+2025-04-19 16:45:43,117 - mineflayer - INFO - }
+2025-04-19 16:45:44,186 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:45:44,187 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:45:44,187 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:45:44,187 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:45:44,187 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:45:44,187 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:45:44,187 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:45:44,187 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:45:44,187 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:45:44,187 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:45:44,187 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:45:44,243 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:45:44,243 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:45:44,243 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:45:44,243 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:45:44,243 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:45:44,243 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:45:44,243 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:45:44,243 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:45:44,243 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:45:44,243 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:45:44,243 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:45:44,667 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:45:47,531 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:50:01,924 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:50:04,192 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:50:06,097 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:50:08,089 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:50:23,917 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:50:24,527 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:50:24,527 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:50:24,527 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:50:24,527 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:50:24,527 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:50:24,527 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:50:24,527 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:50:24,527 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:50:24,527 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:50:24,527 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:50:24,527 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:50:26,068 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:50:27,744 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:50:29,197 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:50:46,807 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:50:48,989 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:50:50,689 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:51:15,799 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 16:51:16,841 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 16:51:17,309 - mineflayer - INFO - Server started on port 3000
+2025-04-19 16:51:17,310 - mineflayer - INFO - Subprocess is ready.
+2025-04-19 16:51:17,330 - mineflayer - INFO - {
+2025-04-19 16:51:17,330 - mineflayer - INFO - port: [33m54208[39m,
+2025-04-19 16:51:17,330 - mineflayer - INFO - reset: [32m'soft'[39m,
+2025-04-19 16:51:17,331 - mineflayer - INFO - inventory: {},
+2025-04-19 16:51:17,331 - mineflayer - INFO - equipment: [],
+2025-04-19 16:51:17,331 - mineflayer - INFO - spread: [33mfalse[39m,
+2025-04-19 16:51:17,331 - mineflayer - INFO - waitTicks: [33m20[39m,
+2025-04-19 16:51:17,331 - mineflayer - INFO - position: [1mnull[22m
+2025-04-19 16:51:17,331 - mineflayer - INFO - }
+2025-04-19 16:51:18,323 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:51:18,323 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:51:18,323 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:51:18,324 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:51:18,324 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:51:18,324 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:51:18,324 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:51:18,324 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:51:18,324 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:51:18,324 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:51:18,324 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:51:18,373 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:51:18,374 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:51:18,374 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:51:18,374 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:51:18,374 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:51:18,374 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:51:18,374 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:51:18,374 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:51:18,374 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:51:18,374 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:51:18,374 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:51:18,793 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:51:21,700 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:51:43,051 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:51:51,547 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:51:53,533 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:52:13,420 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 16:52:14,457 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 16:52:14,915 - mineflayer - INFO - Server started on port 3000
+2025-04-19 16:52:14,915 - mineflayer - INFO - Subprocess is ready.
+2025-04-19 16:52:14,945 - mineflayer - INFO - {
+2025-04-19 16:52:14,946 - mineflayer - INFO - port: [33m54208[39m,
+2025-04-19 16:52:14,946 - mineflayer - INFO - reset: [32m'soft'[39m,
+2025-04-19 16:52:14,946 - mineflayer - INFO - inventory: {},
+2025-04-19 16:52:14,946 - mineflayer - INFO - equipment: [],
+2025-04-19 16:52:14,946 - mineflayer - INFO - spread: [33mfalse[39m,
+2025-04-19 16:52:14,946 - mineflayer - INFO - waitTicks: [33m20[39m,
+2025-04-19 16:52:14,946 - mineflayer - INFO - position: [1mnull[22m
+2025-04-19 16:52:14,946 - mineflayer - INFO - }
+2025-04-19 16:52:15,922 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:52:15,922 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:52:15,922 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:52:15,922 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:52:15,922 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:52:15,922 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:52:15,922 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:52:15,922 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:52:15,922 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:52:15,922 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:52:15,922 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:52:16,009 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:52:16,009 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:52:16,009 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:52:16,009 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:52:16,009 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:52:16,009 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:52:16,009 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:52:16,009 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:52:16,010 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:52:16,010 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:52:16,010 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:52:16,428 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:52:19,292 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:52:30,408 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:52:38,227 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:52:40,433 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:52:59,385 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 16:53:00,421 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 16:53:00,875 - mineflayer - INFO - Server started on port 3000
+2025-04-19 16:53:00,875 - mineflayer - INFO - Subprocess is ready.
+2025-04-19 16:53:00,906 - mineflayer - INFO - {
+2025-04-19 16:53:00,906 - mineflayer - INFO - port: [33m54208[39m,
+2025-04-19 16:53:00,906 - mineflayer - INFO - reset: [32m'soft'[39m,
+2025-04-19 16:53:00,906 - mineflayer - INFO - inventory: {},
+2025-04-19 16:53:00,906 - mineflayer - INFO - equipment: [],
+2025-04-19 16:53:00,906 - mineflayer - INFO - spread: [33mfalse[39m,
+2025-04-19 16:53:00,906 - mineflayer - INFO - waitTicks: [33m20[39m,
+2025-04-19 16:53:00,906 - mineflayer - INFO - position: [1mnull[22m
+2025-04-19 16:53:00,906 - mineflayer - INFO - }
+2025-04-19 16:53:01,938 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:53:01,938 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:53:01,938 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:53:01,938 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:53:01,938 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:53:01,938 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:53:01,938 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:53:01,938 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:53:01,938 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:53:01,938 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:53:01,938 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:53:02,384 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:53:05,309 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:53:21,361 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:53:22,363 - mineflayer - INFO - Error: No furnace nearby
+2025-04-19 16:53:22,363 - mineflayer - INFO - at smeltItem (eval at evaluateCode (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:899:15)
+2025-04-19 16:53:22,363 - mineflayer - INFO - at mineLapisOre (eval at evaluateCode (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1186:15)
+2025-04-19 16:53:22,363 - mineflayer - INFO - at async eval (eval at evaluateCode (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1234:1)
+2025-04-19 16:53:22,363 - mineflayer - INFO - at async evaluateCode (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:256:13)
+2025-04-19 16:53:22,364 - mineflayer - INFO - at async D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:239:15
+2025-04-19 16:53:22,364 - mineflayer - INFO - In your program code: throw new Error("No furnace nearby");
+2025-04-19 16:53:22,364 - mineflayer - INFO - No furnace nearby
+2025-04-19 16:53:22,364 - mineflayer - INFO - at line 18:await smeltItem(bot, "raw_iron", "oak_planks", 1); // Smelt 1 raw iron using oak planks as fuel in your code
+2025-04-19 16:53:39,605 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:53:40,646 - mineflayer - INFO - Error: direction must be a Vec3 only with value of -1, 0 or 1
+2025-04-19 16:53:40,646 - mineflayer - INFO - at exploreUntil (eval at evaluateCode (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:569:15)
+2025-04-19 16:53:40,646 - mineflayer - INFO - at mineLapisOre (eval at evaluateCode (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1186:15)
+2025-04-19 16:53:40,646 - mineflayer - INFO - at eval (eval at evaluateCode (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1247:7)
+2025-04-19 16:53:40,646 - mineflayer - INFO - at eval (eval at evaluateCode (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1247:27)
+2025-04-19 16:53:40,646 - mineflayer - INFO - at evaluateCode (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:256:19)
+2025-04-19 16:53:40,646 - mineflayer - INFO - at D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:239:21
+2025-04-19 16:53:40,646 - mineflayer - INFO - In your program code: throw new Error(
+2025-04-19 16:53:40,646 - mineflayer - INFO - direction must be a Vec3 only with value of -1, 0 or 1
+2025-04-19 16:53:40,646 - mineflayer - INFO - at line 18:await exploreUntil(bot, new Vec3(Math.random() * 2 - 1, 0, Math.random() * 2 - 1), 60, () => { in your code
+2025-04-19 16:53:54,657 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:54:55,650 - mineflayer - INFO - TypeError: Cannot read properties of null (reading 'position')
+2025-04-19 16:54:55,650 - mineflayer - INFO - at mineLapisOre (eval at evaluateCode (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1197:55)
+2025-04-19 16:54:55,650 - mineflayer - INFO - at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-04-19 16:54:55,650 - mineflayer - INFO - at async eval (eval at evaluateCode (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1254:1)
+2025-04-19 16:54:55,650 - mineflayer - INFO - at async evaluateCode (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:256:13)
+2025-04-19 16:54:55,650 - mineflayer - INFO - at async D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:239:15
+2025-04-19 16:54:55,650 - mineflayer - INFO - Your code:29
+2025-04-19 16:54:55,650 - mineflayer - INFO - await placeItem(bot, "furnace", craftingTable.position.offset(1, 0, 0)); // Place the furnace next to the crafting table
+2025-04-19 16:54:55,650 - mineflayer - INFO - Cannot read properties of null (reading 'position')
+2025-04-19 16:54:55,650 - mineflayer - INFO - 
+2025-04-19 16:55:11,054 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:55:12,055 - mineflayer - INFO - Error: direction must be a Vec3 only with value of -1, 0 or 1
+2025-04-19 16:55:12,055 - mineflayer - INFO - at exploreUntil (eval at evaluateCode (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:569:15)
+2025-04-19 16:55:12,055 - mineflayer - INFO - at mineLapisOre (eval at evaluateCode (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1186:36)
+2025-04-19 16:55:12,055 - mineflayer - INFO - at eval (eval at evaluateCode (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1263:7)
+2025-04-19 16:55:12,055 - mineflayer - INFO - at eval (eval at evaluateCode (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:256:19), <anonymous>:1263:27)
+2025-04-19 16:55:12,055 - mineflayer - INFO - at evaluateCode (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:256:19)
+2025-04-19 16:55:12,055 - mineflayer - INFO - at D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\index.js:239:21
+2025-04-19 16:55:12,055 - mineflayer - INFO - In your program code: throw new Error(
+2025-04-19 16:55:12,055 - mineflayer - INFO - direction must be a Vec3 only with value of -1, 0 or 1
+2025-04-19 16:55:12,055 - mineflayer - INFO - at line 18:const furnaceBlock = await exploreUntil(bot, new Vec3(Math.random() * 2 - 1, 0, Math.random() * 2 - 1), 60, () => { in your code
+2025-04-19 16:55:21,866 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 16:55:22,921 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 16:55:23,391 - mineflayer - INFO - Server started on port 3000
+2025-04-19 16:55:23,391 - mineflayer - INFO - Subprocess is ready.
+2025-04-19 16:55:23,424 - mineflayer - INFO - {
+2025-04-19 16:55:23,424 - mineflayer - INFO - port: [33m54208[39m,
+2025-04-19 16:55:23,424 - mineflayer - INFO - reset: [32m'soft'[39m,
+2025-04-19 16:55:23,424 - mineflayer - INFO - inventory: {},
+2025-04-19 16:55:23,424 - mineflayer - INFO - equipment: [],
+2025-04-19 16:55:23,424 - mineflayer - INFO - spread: [33mfalse[39m,
+2025-04-19 16:55:23,424 - mineflayer - INFO - waitTicks: [33m20[39m,
+2025-04-19 16:55:23,424 - mineflayer - INFO - position: [1mnull[22m
+2025-04-19 16:55:23,424 - mineflayer - INFO - }
+2025-04-19 16:55:24,488 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:55:24,488 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:55:24,488 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:55:24,488 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:55:24,488 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:55:24,488 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:55:24,488 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:55:24,488 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:55:24,488 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:55:24,488 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:55:24,488 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:55:24,923 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:55:27,782 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:55:41,763 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:55:59,785 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 16:56:00,827 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 16:56:01,277 - mineflayer - INFO - Server started on port 3000
+2025-04-19 16:56:01,277 - mineflayer - INFO - Subprocess is ready.
+2025-04-19 16:56:01,298 - mineflayer - INFO - {
+2025-04-19 16:56:01,298 - mineflayer - INFO - port: [33m54208[39m,
+2025-04-19 16:56:01,298 - mineflayer - INFO - reset: [32m'soft'[39m,
+2025-04-19 16:56:01,298 - mineflayer - INFO - inventory: {},
+2025-04-19 16:56:01,298 - mineflayer - INFO - equipment: [],
+2025-04-19 16:56:01,298 - mineflayer - INFO - spread: [33mfalse[39m,
+2025-04-19 16:56:01,299 - mineflayer - INFO - waitTicks: [33m20[39m,
+2025-04-19 16:56:01,299 - mineflayer - INFO - position: [1mnull[22m
+2025-04-19 16:56:01,299 - mineflayer - INFO - }
+2025-04-19 16:56:02,348 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:56:02,348 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:56:02,348 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:56:02,348 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:56:02,348 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:56:02,348 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:56:02,348 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:56:02,348 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:56:02,348 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:56:02,348 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:56:02,348 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:56:02,783 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:56:05,624 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:56:16,347 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:56:29,653 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:56:35,294 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:56:38,140 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:56:52,642 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:57:10,035 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 16:57:11,076 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 16:57:11,532 - mineflayer - INFO - Server started on port 3000
+2025-04-19 16:57:11,532 - mineflayer - INFO - Subprocess is ready.
+2025-04-19 16:57:11,565 - mineflayer - INFO - {
+2025-04-19 16:57:11,565 - mineflayer - INFO - port: [33m54208[39m,
+2025-04-19 16:57:11,565 - mineflayer - INFO - reset: [32m'soft'[39m,
+2025-04-19 16:57:11,565 - mineflayer - INFO - inventory: {},
+2025-04-19 16:57:11,565 - mineflayer - INFO - equipment: [],
+2025-04-19 16:57:11,565 - mineflayer - INFO - spread: [33mfalse[39m,
+2025-04-19 16:57:11,565 - mineflayer - INFO - waitTicks: [33m20[39m,
+2025-04-19 16:57:11,565 - mineflayer - INFO - position: [1mnull[22m
+2025-04-19 16:57:11,565 - mineflayer - INFO - }
+2025-04-19 16:57:12,606 - mineflayer - INFO - PartialReadError: Read error for undefined : Missing characters in string, found size is 77 expected size was 1865
+2025-04-19 16:57:12,606 - mineflayer - INFO - at new ExtendableError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:63:13)
+2025-04-19 16:57:12,606 - mineflayer - INFO - at new PartialReadError (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\utils.js:70:5)
+2025-04-19 16:57:12,606 - mineflayer - INFO - at Object.shortString (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2479:15)
+2025-04-19 16:57:12,607 - mineflayer - INFO - at Object.readPString [as nbtTagName] (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:30:35)
+2025-04-19 16:57:12,607 - mineflayer - INFO - at Object.nbt (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:82:61)
+2025-04-19 16:57:12,607 - mineflayer - INFO - at Object.entityMetadataItem (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:264:34)
+2025-04-19 16:57:12,607 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:285:75)
+2025-04-19 16:57:12,607 - mineflayer - INFO - at Object.entityMetadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:287:9)
+2025-04-19 16:57:12,607 - mineflayer - INFO - at Object.packet_entity_metadata (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:1821:73)
+2025-04-19 16:57:12,607 - mineflayer - INFO - at eval (eval at compile (D:\UniversityFile\CSC\4100\project\Voyager\voyager\env\mineflayer\node_modules\protodef\src\compiler.js:262:12), <anonymous>:2442:70)
+2025-04-19 16:57:13,007 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:57:15,936 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:57:26,403 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:58:05,301 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:58:12,975 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:58:36,083 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:59:25,754 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:59:28,082 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 16:59:32,683 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 17:00:12,446 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 17:00:13,479 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 17:00:13,931 - mineflayer - INFO - Server started on port 3000
+2025-04-19 17:00:13,931 - mineflayer - INFO - Subprocess is ready.
+2025-04-19 17:00:13,966 - mineflayer - INFO - {
+2025-04-19 17:00:13,968 - mineflayer - INFO - port: [33m54208[39m,
+2025-04-19 17:00:13,968 - mineflayer - INFO - reset: [32m'soft'[39m,
+2025-04-19 17:00:13,968 - mineflayer - INFO - inventory: {},
+2025-04-19 17:00:13,968 - mineflayer - INFO - equipment: [],
+2025-04-19 17:00:13,968 - mineflayer - INFO - spread: [33mfalse[39m,
+2025-04-19 17:00:13,968 - mineflayer - INFO - waitTicks: [33m20[39m,
+2025-04-19 17:00:13,968 - mineflayer - INFO - position: [1mnull[22m
+2025-04-19 17:00:13,968 - mineflayer - INFO - }
+2025-04-19 17:10:16,967 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 17:10:18,006 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 17:10:18,463 - mineflayer - INFO - Server started on port 3000
+2025-04-19 17:10:18,463 - mineflayer - INFO - Subprocess is ready.
+2025-04-19 17:10:18,475 - mineflayer - INFO - {
+2025-04-19 17:10:18,475 - mineflayer - INFO - port: [33m54208[39m,
+2025-04-19 17:10:18,475 - mineflayer - INFO - reset: [32m'hard'[39m,
+2025-04-19 17:10:18,475 - mineflayer - INFO - inventory: {
+2025-04-19 17:10:18,475 - mineflayer - INFO - oak_planks: [33m5[39m,
+2025-04-19 17:10:18,475 - mineflayer - INFO - stick: [33m2[39m,
+2025-04-19 17:10:18,475 - mineflayer - INFO - stone_axe: [33m3[39m,
+2025-04-19 17:10:18,475 - mineflayer - INFO - raw_copper: [33m10[39m,
+2025-04-19 17:10:18,475 - mineflayer - INFO - cobblestone: [33m42[39m,
+2025-04-19 17:10:18,475 - mineflayer - INFO - andesite: [33m13[39m,
+2025-04-19 17:10:18,475 - mineflayer - INFO - coal: [33m1[39m,
+2025-04-19 17:10:18,475 - mineflayer - INFO - iron_ingot: [33m6[39m,
+2025-04-19 17:10:18,475 - mineflayer - INFO - furnace: [33m1[39m,
+2025-04-19 17:10:18,475 - mineflayer - INFO - crafting_table: [33m1[39m,
+2025-04-19 17:10:18,475 - mineflayer - INFO - wooden_pickaxe: [33m1[39m,
+2025-04-19 17:10:18,475 - mineflayer - INFO - dirt: [33m5[39m,
+2025-04-19 17:10:18,475 - mineflayer - INFO - stone_pickaxe: [33m3[39m,
+2025-04-19 17:10:18,475 - mineflayer - INFO - oak_log: [33m2[39m,
+2025-04-19 17:10:18,475 - mineflayer - INFO - oak_sapling: [33m1[39m
+2025-04-19 17:10:18,475 - mineflayer - INFO - },
+2025-04-19 17:10:18,475 - mineflayer - INFO - equipment: [ [1mnull[22m, [1mnull[22m, [1mnull[22m, [1mnull[22m, [32m'furnace'[39m, [1mnull[22m ],
+2025-04-19 17:10:18,475 - mineflayer - INFO - spread: [33mfalse[39m,
+2025-04-19 17:10:18,475 - mineflayer - INFO - waitTicks: [33m20[39m,
+2025-04-19 17:10:18,475 - mineflayer - INFO - position: { x: [33m82.51564998427372[39m, y: [33m38[39m, z: [33m-150.69119812994325[39m }
+2025-04-19 17:10:18,475 - mineflayer - INFO - }

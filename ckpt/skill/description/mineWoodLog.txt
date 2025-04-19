@@ -1,0 +1,3 @@
+async function mineWoodLog(bot) {
+    // The function is about mining an oak log in Minecraft. It first attempts to find and mine an oak log within a certain range. If the oak log is not immediately found, the bot explores the surroundings to locate one. Once the oak log is found, it is mined, and the bot confirms successful mining. After mining, the bot checks the inventory to ensure at least one oak log has been collected, providing appropriate feedback messages based on the outcome of the task.
+}

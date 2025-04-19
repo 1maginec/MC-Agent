@@ -1,0 +1,3 @@
+async function mineTwoCopperOres(bot) {
+    // The function is about mining two copper ores. It searches for copper ores within a specified range and mines them. It keeps track of the number of copper ores mined and stops when the required amount is reached. During exploration, if a copper ore is found, it is mined, and the count is incremented accordingly. A message is displayed when the task of collecting two copper ores is completed.
+}

@@ -1,0 +1,3 @@
+async function completeOakLogTask(bot) {
+    // The function checks if there are at least 3 oak logs in the inventory and sends a chat message accordingly, either notifying the completion of the task with 3 oak logs collected or prompting to collect more oak logs.
+}

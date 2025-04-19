@@ -1,0 +1,3 @@
+async function confirmTaskCompletion(bot) {
+    // The function confirms the completion of a task by notifying the user that they have collected 2 oak logs, while already having 3 in their inventory.
+}

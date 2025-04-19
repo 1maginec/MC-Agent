@@ -1,0 +1,37 @@
+2025-04-19 14:26:16,406 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 14:26:17,407 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:26:17,861 - mineflayer - INFO - Server started on port 3000
+2025-04-19 14:26:17,862 - mineflayer - INFO - Subprocess is ready.
+2025-04-19 14:26:17,885 - mineflayer - INFO - {
+2025-04-19 14:26:17,885 - mineflayer - INFO - port: [33m55498[39m,
+2025-04-19 14:26:17,885 - mineflayer - INFO - reset: [32m'hard'[39m,
+2025-04-19 14:26:17,885 - mineflayer - INFO - inventory: {},
+2025-04-19 14:26:17,885 - mineflayer - INFO - equipment: [],
+2025-04-19 14:26:17,885 - mineflayer - INFO - spread: [33mfalse[39m,
+2025-04-19 14:26:17,886 - mineflayer - INFO - waitTicks: [33m20[39m,
+2025-04-19 14:26:17,886 - mineflayer - INFO - position: [1mnull[22m
+2025-04-19 14:26:17,886 - mineflayer - INFO - }
+2025-04-19 14:26:19,669 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 14:26:19,671 - mineflayer - INFO - node:internal/process/promises:394
+2025-04-19 14:26:19,671 - mineflayer - INFO - triggerUncaughtException(err, true /* fromPromise */);
+2025-04-19 14:26:19,671 - mineflayer - INFO - ^
+2025-04-19 14:26:19,671 - mineflayer - INFO - 
+2025-04-19 14:26:19,671 - mineflayer - INFO - AssertionError [ERR_ASSERTION]: plugin needs to be a function
+2025-04-19 14:26:19,671 - mineflayer - INFO - at EventEmitter.loadPlugin [90m(D:\UniversityFile\CSC\4100\project\Voyager\[39mvoyager\env\mineflayer\node_modules\[4mmineflayer[24m\lib\plugin_loader.js:16:12[90m)[39m
+2025-04-19 14:26:19,671 - mineflayer - INFO - at EventEmitter.<anonymous> [90m(D:\UniversityFile\CSC\4100\project\Voyager\[39mvoyager\env\mineflayer\index.js:107:13[90m)[39m
+2025-04-19 14:26:19,671 - mineflayer - INFO - [90m    at Object.onceWrapper (node:events:632:28)[39m
+2025-04-19 14:26:19,671 - mineflayer - INFO - [90m    at EventEmitter.emit (node:events:530:35)[39m
+2025-04-19 14:26:19,671 - mineflayer - INFO - at Client.<anonymous> [90m(D:\UniversityFile\CSC\4100\project\Voyager\[39mvoyager\env\mineflayer\node_modules\[4mmineflayer[24m\lib\plugins\health.js:13:11[90m)[39m
+2025-04-19 14:26:19,672 - mineflayer - INFO - [90m    at Object.onceWrapper (node:events:633:26)[39m
+2025-04-19 14:26:19,672 - mineflayer - INFO - [90m    at Client.emit (node:events:530:35)[39m
+2025-04-19 14:26:19,672 - mineflayer - INFO - at emitPacket [90m(D:\UniversityFile\CSC\4100\project\Voyager\[39mvoyager\env\mineflayer\node_modules\[4mminecraft-protocol[24m\src\client.js:84:12[90m)[39m
+2025-04-19 14:26:19,672 - mineflayer - INFO - at FullPacketParser.<anonymous> [90m(D:\UniversityFile\CSC\4100\project\Voyager\[39mvoyager\env\mineflayer\node_modules\[4mminecraft-protocol[24m\src\client.js:113:9[90m)[39m
+2025-04-19 14:26:19,672 - mineflayer - INFO - [90m    at FullPacketParser.emit (node:events:518:28)[39m {
+2025-04-19 14:26:19,672 - mineflayer - INFO - generatedMessage: [33mfalse[39m,
+2025-04-19 14:26:19,672 - mineflayer - INFO - code: [32m'ERR_ASSERTION'[39m,
+2025-04-19 14:26:19,672 - mineflayer - INFO - actual: [33mfalse[39m,
+2025-04-19 14:26:19,672 - mineflayer - INFO - expected: [33mtrue[39m,
+2025-04-19 14:26:19,672 - mineflayer - INFO - operator: [32m'=='[39m
+2025-04-19 14:26:19,672 - mineflayer - INFO - }
+2025-04-19 14:26:19,672 - mineflayer - INFO - 
+2025-04-19 14:26:19,672 - mineflayer - INFO - Node.js v22.14.0

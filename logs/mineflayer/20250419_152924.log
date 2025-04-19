@@ -1,0 +1,32 @@
+2025-04-19 15:29:31,619 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 15:29:32,625 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 15:29:33,080 - mineflayer - INFO - Server started on port 3000
+2025-04-19 15:29:33,080 - mineflayer - INFO - Subprocess is ready.
+2025-04-19 15:29:33,115 - mineflayer - INFO - {
+2025-04-19 15:29:33,115 - mineflayer - INFO - port: [33m54208[39m,
+2025-04-19 15:29:33,115 - mineflayer - INFO - reset: [32m'hard'[39m,
+2025-04-19 15:29:33,115 - mineflayer - INFO - inventory: {},
+2025-04-19 15:29:33,115 - mineflayer - INFO - equipment: [],
+2025-04-19 15:29:33,115 - mineflayer - INFO - spread: [33mfalse[39m,
+2025-04-19 15:29:33,116 - mineflayer - INFO - waitTicks: [33m20[39m,
+2025-04-19 15:29:33,116 - mineflayer - INFO - position: [1mnull[22m
+2025-04-19 15:29:33,116 - mineflayer - INFO - }
+2025-04-19 15:29:34,520 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 15:29:37,712 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 15:29:41,694 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 15:29:42,730 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 15:29:43,193 - mineflayer - INFO - Server started on port 3000
+2025-04-19 15:29:43,193 - mineflayer - INFO - Subprocess is ready.
+2025-04-19 15:29:43,217 - mineflayer - INFO - {
+2025-04-19 15:29:43,217 - mineflayer - INFO - port: [33m54208[39m,
+2025-04-19 15:29:43,217 - mineflayer - INFO - reset: [32m'soft'[39m,
+2025-04-19 15:29:43,217 - mineflayer - INFO - inventory: {},
+2025-04-19 15:29:43,217 - mineflayer - INFO - equipment: [],
+2025-04-19 15:29:43,217 - mineflayer - INFO - spread: [33mfalse[39m,
+2025-04-19 15:29:43,217 - mineflayer - INFO - waitTicks: [33m20[39m,
+2025-04-19 15:29:43,217 - mineflayer - INFO - position: [1mnull[22m
+2025-04-19 15:29:43,218 - mineflayer - INFO - }
+2025-04-19 15:29:44,552 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 15:29:47,350 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 15:29:55,776 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+2025-04-19 15:30:16,484 - mineflayer - INFO - Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.

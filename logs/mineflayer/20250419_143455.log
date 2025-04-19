@@ -1,0 +1,89 @@
+2025-04-19 14:35:03,371 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 14:35:04,380 - mineflayer - INFO - Starting subprocess with commands: ['node', 'D:\\UniversityFile\\CSC\\4100\\project\\Voyager\\voyager\\env\\mineflayer/index.js', '3000']
+2025-04-19 14:35:04,834 - mineflayer - INFO - Server started on port 3000
+2025-04-19 14:35:04,834 - mineflayer - INFO - Subprocess is ready.
+2025-04-19 14:35:04,857 - mineflayer - INFO - {
+2025-04-19 14:35:04,857 - mineflayer - INFO - port: [33m55498[39m,
+2025-04-19 14:35:04,857 - mineflayer - INFO - reset: [32m'hard'[39m,
+2025-04-19 14:35:04,857 - mineflayer - INFO - inventory: {},
+2025-04-19 14:35:04,857 - mineflayer - INFO - equipment: [],
+2025-04-19 14:35:04,857 - mineflayer - INFO - spread: [33mfalse[39m,
+2025-04-19 14:35:04,858 - mineflayer - INFO - waitTicks: [33m20[39m,
+2025-04-19 14:35:04,859 - mineflayer - INFO - position: [1mnull[22m
+2025-04-19 14:35:04,859 - mineflayer - INFO - }
+2025-04-19 14:35:04,949 - mineflayer - INFO - AggregateError [ECONNREFUSED]:
+2025-04-19 14:35:04,949 - mineflayer - INFO - [90m    at internalConnectMultiple (node:net:1139:18)[39m
+2025-04-19 14:35:04,949 - mineflayer - INFO - [90m    at afterConnectMultiple (node:net:1712:7)[39m {
+2025-04-19 14:35:04,949 - mineflayer - INFO - code: [32m'ECONNREFUSED'[39m,
+2025-04-19 14:35:04,949 - mineflayer - INFO - [errors]: [
+2025-04-19 14:35:04,949 - mineflayer - INFO - Error: connect ECONNREFUSED 127.0.0.1:55498
+2025-04-19 14:35:04,949 - mineflayer - INFO - [90m    at createConnectionError (node:net:1675:14)[39m
+2025-04-19 14:35:04,949 - mineflayer - INFO - [90m    at afterConnectMultiple (node:net:1705:16)[39m {
+2025-04-19 14:35:04,949 - mineflayer - INFO - errno: [33m-4078[39m,
+2025-04-19 14:35:04,949 - mineflayer - INFO - code: [32m'ECONNREFUSED'[39m,
+2025-04-19 14:35:04,949 - mineflayer - INFO - syscall: [32m'connect'[39m,
+2025-04-19 14:35:04,949 - mineflayer - INFO - address: [32m'127.0.0.1'[39m,
+2025-04-19 14:35:04,949 - mineflayer - INFO - port: [33m55498[39m
+2025-04-19 14:35:04,950 - mineflayer - INFO - },
+2025-04-19 14:35:04,950 - mineflayer - INFO - Error: connect ECONNREFUSED ::1:55498
+2025-04-19 14:35:04,950 - mineflayer - INFO - [90m    at createConnectionError (node:net:1675:14)[39m
+2025-04-19 14:35:04,950 - mineflayer - INFO - [90m    at afterConnectMultiple (node:net:1705:16)[39m {
+2025-04-19 14:35:04,950 - mineflayer - INFO - errno: [33m-4078[39m,
+2025-04-19 14:35:04,950 - mineflayer - INFO - code: [32m'ECONNREFUSED'[39m,
+2025-04-19 14:35:04,950 - mineflayer - INFO - syscall: [32m'connect'[39m,
+2025-04-19 14:35:04,950 - mineflayer - INFO - address: [32m'::1'[39m,
+2025-04-19 14:35:04,950 - mineflayer - INFO - port: [33m55498[39m
+2025-04-19 14:35:04,950 - mineflayer - INFO - }
+2025-04-19 14:35:04,950 - mineflayer - INFO - ]
+2025-04-19 14:35:04,950 - mineflayer - INFO - }
+2025-04-19 14:35:04,950 - mineflayer - INFO - AggregateError [ECONNREFUSED]:
+2025-04-19 14:35:04,950 - mineflayer - INFO - [90m    at internalConnectMultiple (node:net:1139:18)[39m
+2025-04-19 14:35:04,950 - mineflayer - INFO - [90m    at afterConnectMultiple (node:net:1712:7)[39m {
+2025-04-19 14:35:04,950 - mineflayer - INFO - code: [32m'ECONNREFUSED'[39m,
+2025-04-19 14:35:04,950 - mineflayer - INFO - [errors]: [
+2025-04-19 14:35:04,950 - mineflayer - INFO - Error: connect ECONNREFUSED 127.0.0.1:55498
+2025-04-19 14:35:04,950 - mineflayer - INFO - [90m    at createConnectionError (node:net:1675:14)[39m
+2025-04-19 14:35:04,950 - mineflayer - INFO - [90m    at afterConnectMultiple (node:net:1705:16)[39m {
+2025-04-19 14:35:04,950 - mineflayer - INFO - errno: [33m-4078[39m,
+2025-04-19 14:35:04,950 - mineflayer - INFO - code: [32m'ECONNREFUSED'[39m,
+2025-04-19 14:35:04,950 - mineflayer - INFO - syscall: [32m'connect'[39m,
+2025-04-19 14:35:04,950 - mineflayer - INFO - address: [32m'127.0.0.1'[39m,
+2025-04-19 14:35:04,950 - mineflayer - INFO - port: [33m55498[39m
+2025-04-19 14:35:04,950 - mineflayer - INFO - },
+2025-04-19 14:35:04,950 - mineflayer - INFO - Error: connect ECONNREFUSED ::1:55498
+2025-04-19 14:35:04,950 - mineflayer - INFO - [90m    at createConnectionError (node:net:1675:14)[39m
+2025-04-19 14:35:04,950 - mineflayer - INFO - [90m    at afterConnectMultiple (node:net:1705:16)[39m {
+2025-04-19 14:35:04,950 - mineflayer - INFO - errno: [33m-4078[39m,
+2025-04-19 14:35:04,950 - mineflayer - INFO - code: [32m'ECONNREFUSED'[39m,
+2025-04-19 14:35:04,950 - mineflayer - INFO - syscall: [32m'connect'[39m,
+2025-04-19 14:35:04,950 - mineflayer - INFO - address: [32m'::1'[39m,
+2025-04-19 14:35:04,950 - mineflayer - INFO - port: [33m55498[39m
+2025-04-19 14:35:04,950 - mineflayer - INFO - }
+2025-04-19 14:35:04,950 - mineflayer - INFO - ]
+2025-04-19 14:35:04,950 - mineflayer - INFO - }
+2025-04-19 14:35:04,952 - mineflayer - INFO - Stopping subprocess.
+2025-04-19 14:35:04,953 - mineflayer - INFO - AggregateError [ECONNREFUSED]:
+2025-04-19 14:35:04,953 - mineflayer - INFO - [90m    at internalConnectMultiple (node:net:1139:18)[39m
+2025-04-19 14:35:04,953 - mineflayer - INFO - [90m    at afterConnectMultiple (node:net:1712:7)[39m {
+2025-04-19 14:35:04,953 - mineflayer - INFO - code: [32m'ECONNREFUSED'[39m,
+2025-04-19 14:35:04,953 - mineflayer - INFO - [errors]: [
+2025-04-19 14:35:04,953 - mineflayer - INFO - Error: connect ECONNREFUSED 127.0.0.1:55498
+2025-04-19 14:35:04,953 - mineflayer - INFO - [90m    at createConnectionError (node:net:1675:14)[39m
+2025-04-19 14:35:04,953 - mineflayer - INFO - [90m    at afterConnectMultiple (node:net:1705:16)[39m {
+2025-04-19 14:35:04,953 - mineflayer - INFO - errno: [33m-4078[39m,
+2025-04-19 14:35:04,953 - mineflayer - INFO - code: [32m'ECONNREFUSED'[39m,
+2025-04-19 14:35:04,953 - mineflayer - INFO - syscall: [32m'connect'[39m,
+2025-04-19 14:35:04,953 - mineflayer - INFO - address: [32m'127.0.0.1'[39m,
+2025-04-19 14:35:04,953 - mineflayer - INFO - port: [33m55498[39m
+2025-04-19 14:35:04,953 - mineflayer - INFO - },
+2025-04-19 14:35:04,953 - mineflayer - INFO - Error: connect ECONNREFUSED ::1:55498
+2025-04-19 14:35:04,953 - mineflayer - INFO - [90m    at createConnectionError (node:net:1675:14)[39m
+2025-04-19 14:35:04,953 - mineflayer - INFO - [90m    at afterConnectMultiple (node:net:1705:16)[39m {
+2025-04-19 14:35:04,953 - mineflayer - INFO - errno: [33m-4078[39m,
+2025-04-19 14:35:04,953 - mineflayer - INFO - code: [32m'ECONNREFUSED'[39m,
+2025-04-19 14:35:04,953 - mineflayer - INFO - syscall: [32m'connect'[39m,
+2025-04-19 14:35:04,953 - mineflayer - INFO - address: [32m'::1'[39m,
+2025-04-19 14:35:04,953 - mineflayer - INFO - port: [33m55498[39m
+2025-04-19 14:35:04,953 - mineflayer - INFO - }
+2025-04-19 14:35:04,953 - mineflayer - INFO - ]
+2025-04-19 14:35:04,953 - mineflayer - INFO - }

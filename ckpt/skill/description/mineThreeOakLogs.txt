@@ -1,0 +1,3 @@
+async function mineThreeOakLogs(bot) {
+    // The function is responsible for collecting 3 oak logs by continuously searching for nearby oak logs. It iterates through the inventory to ensure that the required number of oak logs is gathered. If an oak log is found nearby, it mines one log at a time and updates the total count of collected logs. In case no oak log is nearby, the bot explores the environment randomly until finding an oak log. Upon collecting 3 oak logs, the task is considered completed and a message is sent.
+}

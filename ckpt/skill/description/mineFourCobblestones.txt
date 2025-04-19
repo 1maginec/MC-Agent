@@ -1,0 +1,3 @@
+async function mineFourCobblestones(bot) {
+    // The function is focused on collecting a total of 4 cobblestones. It checks the current inventory for cobblestones and collects more until reaching the required amount. The bot searches for stone blocks to mine for cobblestones within a specified range. If enough stone blocks are found, it mines them to obtain the required number of cobblestones. In case no stone blocks are nearby, the bot explores the area until a suitable block is located. Finally, a message is sent indicating whether the task of collecting 4 cobblestones was successful or not.
+}

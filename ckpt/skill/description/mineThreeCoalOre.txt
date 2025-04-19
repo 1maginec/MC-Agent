@@ -1,0 +1,3 @@
+async function mineThreeCoalOre(bot) {
+    // The function is focused on collecting 3 coal ores. It checks the inventory for the required amount of coal and exits early if already collected. If not enough coal is found, it initiates a search for coal ore by exploring randomly. Once a coal ore is located within a certain distance, it is mined, and the bot keeps track of the mined amount until reaching 3. If no coal ores are found during exploration, a message is sent. Finally, a task completion message is displayed when 3 coal ores have been successfully collected.
+}
