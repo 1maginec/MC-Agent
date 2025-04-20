@@ -315,7 +315,7 @@ class CurriculumAgent:
                 task = line[5:].replace(".", "").strip()
         assert task, "Task not found in Curriculum Agent response"
         return {"next_task": task}
-
+    # TODO automatically create the context
     def propose_next_manual_task(self):
         confirmed = False
         task, context = "", ""
