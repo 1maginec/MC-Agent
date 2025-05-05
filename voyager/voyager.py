@@ -14,7 +14,7 @@ from .agents import SkillManager
 
 
 os.environ['OPENAI_API_BASE'] = "https://api.gptsapi.net/v1"
-
+os.environ['DEEPSEEK_API_BASE'] = 'https://api.deepseek.com/v1'
 # TODO: remove event memory
 class Voyager:
     def __init__(
@@ -27,7 +27,8 @@ class Voyager:
         env_request_timeout: int = 600,
         max_iterations: int = 160,
         reset_placed_if_failed: bool = False,
-        action_agent_model_name: str = "gpt-4o-mini",
+        # action_agent_model_name: str = "gpt-4o-mini",
+        action_agent_model_name = "deepseek-chat",
         action_agent_temperature: float = 0,
         action_agent_task_max_retries: int = 4,
         action_agent_show_chat_log: bool = True,
@@ -39,6 +40,7 @@ class Voyager:
         curriculum_agent_warm_up: Dict[str, int] = None,
         curriculum_agent_core_inventory_items: str = r".*_log|.*_planks|stick|crafting_table|furnace"
         r"|cobblestone|dirt|coal|.*_pickaxe|.*_sword|.*_axe",
+        # auto or manual
         curriculum_agent_mode: str = "auto",
         critic_agent_model_name: str = "gpt-4o-mini",
         critic_agent_temperature: float = 0,
@@ -116,6 +118,7 @@ class Voyager:
 
         # set openai api key
         os.environ["OPENAI_API_KEY"] = openai_api_key
+
 
         # init agents
         self.action_agent = ActionAgent(
@@ -330,6 +333,7 @@ class Voyager:
                 f"\033[35mStarting task {task} for at most {self.action_agent_task_max_retries} times\033[0m"
             )
             try:
+                # working out the task
                 messages, reward, done, info = self.rollout(
                     task=task,
                     context=context,

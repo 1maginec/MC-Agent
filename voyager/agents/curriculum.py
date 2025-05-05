@@ -2,7 +2,9 @@ from __future__ import annotations
 
 import random
 import re
-
+import requests
+import time
+import queue
 import voyager.utils as U
 from voyager.prompts import load_prompt
 from voyager.utils.json_utils import fix_and_parse_json
@@ -11,6 +13,10 @@ from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.schema import HumanMessage, SystemMessage
 from langchain.vectorstores import Chroma
 
+proxies = {
+    "http": None,
+    "https": None,
+}
 
 class CurriculumAgent:
     def __init__(
@@ -26,6 +32,8 @@ class CurriculumAgent:
         warm_up=None,
         core_inventory_items: str | None = None,
     ):
+        self.server = "http://127.0.0.1:3000"
+        self.tasklist = queue.Queue()
         self.llm = ChatOpenAI(
             model_name=model_name,
             temperature=temperature,
@@ -285,6 +293,7 @@ class CurriculumAgent:
         if self.mode == "auto":
             return self.propose_next_ai_task(messages=messages, max_retries=max_retries)
         elif self.mode == "manual":
+            print("proposing human task...")
             return self.propose_next_manual_task()
         else:
             raise ValueError(f"Invalid curriculum agent mode: {self.mode}")
@@ -315,15 +324,23 @@ class CurriculumAgent:
                 task = line[5:].replace(".", "").strip()
         assert task, "Task not found in Curriculum Agent response"
         return {"next_task": task}
-    # TODO automatically create the context
+    # TODO automatically create the context, also use get() to get the task from server 阻塞
     def propose_next_manual_task(self):
         confirmed = False
         task, context = "", ""
-        while not confirmed:
-            task = input("Enter task: ")
-            context = input("Enter context: ")
+        task = self.get_human_task()
+        #if task == "": task = "Mine 1 wood log"
+        print(task)
+        while (not task):
+            print("sleeping")
+            time.sleep(10)
+            task = self.get_human_task()
+        print(f"Task: {task}\nContext: {context}")
+        """while not confirmed:
+            #task = input("Enter task: ")
+            #context = input("Enter context: ")
             print(f"Task: {task}\nContext: {context}")
-            confirmed = input("Confirm? (y/n)").lower() in ["y", ""]
+            confirmed = input("Confirm? (y/n)").lower() in ["y", ""]"""
         return task, context
 
     def update_exploration_progress(self, info):
@@ -496,3 +513,19 @@ class CurriculumAgent:
         qa_answer = self.qa_llm(messages).content
         print(f"\033[31mCurriculum Agent {qa_answer}\033[0m")
         return qa_answer
+
+
+# TODO finish task queue
+    def get_human_task(self):
+        res = requests.get(f"{self.server}/task", proxies=proxies)
+        if res.status_code == 200:
+            pattern = re.compile(r"\"(.*?)\"")
+            task = pattern.findall(res.text)
+            for i in task:
+                print(i)
+                self.tasklist.put(i)
+        else:
+            print(res.json())
+            return False
+        return self.tasklist.get()
+        

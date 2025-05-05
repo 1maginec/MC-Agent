@@ -14,9 +14,10 @@ const Inventory = require("./lib/observation/inventory");
 const OnSave = require("./lib/observation/onSave");
 const Chests = require("./lib/observation/chests");
 const { plugin: tool } = require("mineflayer-tool");
+const { log } = require("console");
 
 let bot = null;
-
+var tasklist = new Array();
 const app = express();
 
 app.use(bodyParser.json({ limit: "50mb" }));
@@ -414,6 +415,26 @@ app.post("/pause", (req, res) => {
     bot.waitForTicks(bot.waitTicks).then(() => {
         res.json({ message: "Success" });
     });
+});
+
+// TODO: write the response of message transmitting from server
+// using task queue to store the task, then pass it by python using get()
+app.post("/talk", (req, res) => {
+    const jsonData = req.body;
+    console.log('Received JSON:', jsonData);
+    tasklist.push(jsonData.text);
+    
+    res.status(200).send("receive the task:" + jsonData.text);
+    
+});
+
+app.get("/task", (req, res) => {
+    if (tasklist.length == 0) {
+        res.status(404).json({"message": "No task found"});
+        console.log("No task found");
+    }else {
+        res.status(200).json(tasklist);
+    }
 });
 
 // Server listening to PORT 3000

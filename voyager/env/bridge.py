@@ -6,6 +6,7 @@ from typing import SupportsFloat, Any, Tuple, Dict
 
 import requests
 import json
+import re
 
 import gymnasium as gym
 from gymnasium.core import ObsType
@@ -98,7 +99,7 @@ class VoyagerEnv(gym.Env):
                 f"{self.server}/start",
                 json=self.reset_options,
                 timeout=self.request_timeout,
-                proxies=proxies
+                # proxies=proxies
             )
             if res.status_code != 200:
                 self.mineflayer.stop()
@@ -195,3 +196,6 @@ class VoyagerEnv(gym.Env):
             else:
                 print(res.json())
         return self.server_paused
+    
+
+
